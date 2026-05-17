@@ -1,2 +1,2 @@
-# http-byvigga.com-
+# http-byvigga.com
 website for http://byvigga.com/
