@@ -1,0 +1,90 @@
+[
+  {
+    "id": "skovens-balance",
+    "navn": "Skovens Balance",
+    "kategori": "Armbånd",
+    "pris": 325,
+    "billede": "assets/armbaand.jpg",
+    "fallback": "assets/armbaand.svg",
+    "beskrivelse": "Et roligt armbånd med grønne naturtoner, lyse perler og varme gulddetaljer.",
+    "maal": "Send håndledsmål i beskeden.",
+    "dato": "2026-05-18"
+  },
+  {
+    "id": "skovens-ro",
+    "navn": "Skovens Ro",
+    "kategori": "Armbånd",
+    "pris": 325,
+    "billede": "assets/armbaand.jpg",
+    "fallback": "assets/armbaand.svg",
+    "beskrivelse": "Et håndlavet armbånd i bløde perlefarver med skovinspireret vedhæng.",
+    "maal": "Send håndledsmål i beskeden.",
+    "dato": "2026-05-17"
+  },
+  {
+    "id": "egeblad",
+    "navn": "Egeblad",
+    "kategori": "Øreringe",
+    "pris": 295,
+    "billede": "assets/oreringe.jpg",
+    "fallback": "assets/oreringe.svg",
+    "beskrivelse": "Øreringe med grønne perler og små bladvedhæng i varm guldfarve.",
+    "maal": "Skriv eventuelle ønsker til farve og stil.",
+    "dato": "2026-05-16"
+  },
+  {
+    "id": "moseperler",
+    "navn": "Moseperler",
+    "kategori": "Øreringe",
+    "pris": 295,
+    "billede": "assets/oreringe.jpg",
+    "fallback": "assets/oreringe.svg",
+    "beskrivelse": "Enkle øreringe med perler i dæmpede mosgrønne nuancer.",
+    "maal": "Skriv eventuelle ønsker til farve og stil.",
+    "dato": "2026-05-15"
+  },
+  {
+    "id": "skovens-draabe",
+    "navn": "Skovens Dråbe",
+    "kategori": "Halskæder",
+    "pris": 395,
+    "billede": "assets/halskaeder.jpg",
+    "fallback": "assets/halskaeder.svg",
+    "beskrivelse": "Halskæde med skovmotiv, perlemorstone og en rolig atelierfølelse.",
+    "maal": "Send ønsket længde på halskæden.",
+    "dato": "2026-05-14"
+  },
+  {
+    "id": "livets-trae",
+    "navn": "Livets Træ",
+    "kategori": "Halskæder",
+    "pris": 395,
+    "billede": "assets/halskaeder.jpg",
+    "fallback": "assets/halskaeder.svg",
+    "beskrivelse": "Et naturinspireret halskædedesign med organisk vedhæng og gylden varme.",
+    "maal": "Send ønsket længde på halskæden.",
+    "dato": "2026-05-13"
+  },
+  {
+    "id": "grening",
+    "navn": "Grenring",
+    "kategori": "Ringe",
+    "pris": 395,
+    "billede": "assets/ringe.jpg",
+    "fallback": "assets/ringe.svg",
+    "beskrivelse": "Ring med fine blad- og grenformer, inspireret af skovbundens små detaljer.",
+    "maal": "Send ringstørrelse eller mål omkring fingeren.",
+    "dato": "2026-05-12"
+  },
+  {
+    "id": "skovsten",
+    "navn": "Skovsten",
+    "kategori": "Ringe",
+    "pris": 325,
+    "billede": "assets/ringe.jpg",
+    "fallback": "assets/ringe.svg",
+    "beskrivelse": "Ring med grøn stenstemning og et blødt, håndlavet udtryk.",
+    "maal": "Send ringstørrelse eller mål omkring fingeren.",
+    "dato": "2026-05-11"
+  }
+]
