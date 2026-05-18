@@ -9,6 +9,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Lora:wght@400;500;600&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="product-images.css">
 </head>
 <body>
   <header class="site-header">
@@ -32,62 +33,33 @@
         <div class="ornament" aria-hidden="true"><span></span><b>✦</b><span></span></div>
         <h2>Håndlavede smykker inspireret af skoven</h2>
         <p class="hero-text">Lavet på bestilling med kærlighed til naturen og de små detaljer.</p>
-        <div class="hero-actions">
-          <a class="button button-primary" href="#smykker">Se smykker</a>
-          <a class="button button-secondary" href="#bestilling">Sådan bestiller du</a>
-        </div>
+        <div class="hero-actions"><a class="button button-primary" href="#smykker">Se smykker</a><a class="button button-secondary" href="#bestilling">Sådan bestiller du</a></div>
       </div>
     </section>
 
     <section id="smykker" class="section products" aria-labelledby="products-title">
       <div class="section-heading"><span aria-hidden="true"></span><div><p class="section-kicker">Udvalgte kategorier</p><h2 id="products-title">Smykker lavet på bestilling</h2><p>Alle smykker laves efter aftale. Priserne er vejledende startpriser + fragt.</p></div><span aria-hidden="true"></span></div>
       <div class="product-grid">
-        <article class="product-card"><div class="product-art bracelet" aria-hidden="true"></div><h3>Armbånd</h3><p>Personlige armbånd med rolige naturfarver, perler og fine detaljer efter ønske.</p><strong>Fra 325 kr. + fragt</strong><button class="button button-card order-button" type="button" data-product="Armbånd">Bestil</button></article>
-        <article class="product-card"><div class="product-art necklace" aria-hidden="true"></div><h3>Halskæder</h3><p>Halskæder i et enkelt, skovinspireret udtryk med ønsket længde og farvetone.</p><strong>Fra 395 kr. + fragt</strong><button class="button button-card order-button" type="button" data-product="Halskæder">Bestil</button></article>
-        <article class="product-card"><div class="product-art ring" aria-hidden="true"></div><h3>Ringe</h3><p>Ringe lavet efter mål med mulighed for at tilpasse størrelse, stemning og detaljer.</p><strong>Fra 295 kr. + fragt</strong><button class="button button-card order-button" type="button" data-product="Ringe">Bestil</button></article>
-        <article class="product-card"><div class="product-art earrings" aria-hidden="true"></div><h3>Øreringe</h3><p>Let håndlavede øreringe med botaniske farver, varme metaller og et feminint udtryk.</p><strong>Fra 295 kr. + fragt</strong><button class="button button-card order-button" type="button" data-product="Øreringe">Bestil</button></article>
+        <article class="product-card"><figure class="product-media"><img src="assets/armbaand.jpg" onerror="this.onerror=null;this.src='assets/armbaand.svg';" alt="Håndlavet armbånd fra By Vigga"></figure><h3>Armbånd</h3><p>Personlige armbånd med rolige naturfarver, perler og fine detaljer efter ønske.</p><strong>Fra 325 kr. + fragt</strong><button class="button button-card order-button" type="button" data-product="Armbånd">Bestil</button></article>
+        <article class="product-card"><figure class="product-media"><img src="assets/halskaeder.jpg" onerror="this.onerror=null;this.src='assets/halskaeder.svg';" alt="Håndlavet halskæde fra By Vigga"></figure><h3>Halskæder</h3><p>Halskæder i et enkelt, skovinspireret udtryk med ønsket længde og farvetone.</p><strong>Fra 395 kr. + fragt</strong><button class="button button-card order-button" type="button" data-product="Halskæder">Bestil</button></article>
+        <article class="product-card"><figure class="product-media"><img src="assets/ringe.jpg" onerror="this.onerror=null;this.src='assets/ringe.svg';" alt="Håndlavet ring fra By Vigga"></figure><h3>Ringe</h3><p>Ringe lavet efter mål med mulighed for at tilpasse størrelse, stemning og detaljer.</p><strong>Fra 295 kr. + fragt</strong><button class="button button-card order-button" type="button" data-product="Ringe">Bestil</button></article>
+        <article class="product-card"><figure class="product-media"><img src="assets/oreringe.jpg" onerror="this.onerror=null;this.src='assets/oreringe.svg';" alt="Håndlavede øreringe fra By Vigga"></figure><h3>Øreringe</h3><p>Let håndlavede øreringe med botaniske farver, varme metaller og et feminint udtryk.</p><strong>Fra 295 kr. + fragt</strong><button class="button button-card order-button" type="button" data-product="Øreringe">Bestil</button></article>
       </div>
     </section>
 
     <section id="bestilling" class="section order-flow" aria-labelledby="order-title">
       <div class="section-heading"><span aria-hidden="true"></span><div><p class="section-kicker">Rolig manuel bestilling</p><h2 id="order-title">Sådan bestiller du</h2></div><span aria-hidden="true"></span></div>
-      <div class="step-grid">
-        <article class="step-card"><span class="step-number">1</span><h3>Vælg et smykke</h3><p>Se udvalget her på siden og vælg det smykke, du er interesseret i.</p></article>
-        <article class="step-card"><span class="step-number">2</span><h3>Skriv en besked</h3><p>Send en mail med navnet på smykket og eventuelle ønsker til farve og størrelse.</p></article>
-        <article class="step-card"><span class="step-number">3</span><h3>Få bekræftet prisen</h3><p>Vi bekræfter pris, levering og hvornår smykket kan være klar. Alle priser er vejledende startpriser + fragt.</p></article>
-        <article class="step-card"><span class="step-number">4</span><h3>Betal med MobilePay</h3><p>Når bestillingen er aftalt, sendes betalingsoplysninger. Smykket laves og pakkes derefter.</p></article>
-      </div>
+      <div class="step-grid"><article class="step-card"><span class="step-number">1</span><h3>Vælg et smykke</h3><p>Se udvalget her på siden og vælg det smykke, du er interesseret i.</p></article><article class="step-card"><span class="step-number">2</span><h3>Skriv en besked</h3><p>Send en mail med navnet på smykket og eventuelle ønsker til farve og størrelse.</p></article><article class="step-card"><span class="step-number">3</span><h3>Få bekræftet prisen</h3><p>Vi bekræfter pris, levering og hvornår smykket kan være klar. Alle priser er vejledende startpriser + fragt.</p></article><article class="step-card"><span class="step-number">4</span><h3>Betal med MobilePay</h3><p>Når bestillingen er aftalt, sendes betalingsoplysninger. Smykket laves og pakkes derefter.</p></article></div>
     </section>
 
-    <section class="section split-section" aria-label="Betaling og om By Vigga">
-      <article class="info-box payment"><h2>Betaling</h2><p>Betaling aftales først, når smykket, pris og levering er bekræftet.</p><p>By Vigga bruger ikke fuld webshop-betaling endnu. Bestilling sker manuelt via mail, og betaling sker efter aftale.</p></article>
-      <article id="om" class="info-box about"><h2>Om By Vigga</h2><p>By Vigga laver håndlavede smykker inspireret af skoven, naturens farver og de små detaljer. Smykkerne laves på bestilling, så der er mulighed for at tilpasse farver, størrelse og udtryk efter ønske.</p></article>
-    </section>
+    <section class="section split-section" aria-label="Betaling og om By Vigga"><article class="info-box payment"><h2>Betaling</h2><p>Betaling aftales først, når smykket, pris og levering er bekræftet.</p><p>By Vigga bruger ikke fuld webshop-betaling endnu. Bestilling sker manuelt via mail, og betaling sker efter aftale.</p></article><article id="om" class="info-box about"><h2>Om By Vigga</h2><p>By Vigga laver håndlavede smykker inspireret af skoven, naturens farver og de små detaljer. Smykkerne laves på bestilling, så der er mulighed for at tilpasse farver, størrelse og udtryk efter ønske.</p></article></section>
 
-    <section id="kontakt" class="section contact" aria-labelledby="contact-title">
-      <div class="contact-ornament" aria-hidden="true"></div>
-      <p class="section-kicker">Kontakt</p>
-      <h2 id="contact-title">Skriv til By Vigga</h2>
-      <p>Har du spørgsmål, eller vil du bestille et smykke, er du velkommen til at skrive.</p>
-      <a class="mail-link" href="mailto:byviggashop@gmail.com?subject=Bestilling%20hos%20By%20Vigga">byviggashop@gmail.com</a>
-    </section>
+    <section id="kontakt" class="section contact" aria-labelledby="contact-title"><div class="contact-ornament" aria-hidden="true"></div><p class="section-kicker">Kontakt</p><h2 id="contact-title">Skriv til By Vigga</h2><p>Har du spørgsmål, eller vil du bestille et smykke, er du velkommen til at skrive.</p><a class="mail-link" href="mailto:byviggashop@gmail.com?subject=Bestilling%20hos%20By%20Vigga">byviggashop@gmail.com</a></section>
   </main>
 
   <footer class="site-footer"><p>By Vigga · Forest Jewelry</p><p>Håndlavede smykker inspireret af skoven</p><p>byvigga.com</p><a href="mailto:byviggashop@gmail.com?subject=Bestilling%20hos%20By%20Vigga">byviggashop@gmail.com</a></footer>
 
-  <div class="modal" id="order-modal" aria-hidden="true">
-    <div class="modal-backdrop" data-close-modal></div>
-    <section class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-title" tabindex="-1">
-      <button class="modal-close" type="button" aria-label="Luk popup" data-close-modal>×</button>
-      <p class="section-kicker">Bestilling</p>
-      <h2 id="modal-title">Sådan bestiller du</h2>
-      <p class="modal-intro" id="modal-product-text">Skriv gerne hvilken kategori du er interesseret i.</p>
-      <ol><li>Vælg smykket</li><li>Skriv en besked</li><li>Oplys ønsker til farve og størrelse</li><li>Få pris og levering bekræftet</li><li>Betal med MobilePay efter aftale</li></ol>
-      <h3>Husk at sende mål:</h3>
-      <ul><li>Armbånd: mål omkring håndleddet</li><li>Ring: ringstørrelse eller mål omkring fingeren</li><li>Halskæde: ønsket længde</li><li>Øreringe: eventuelle ønsker til farve og stil</li></ul>
-      <a class="button button-primary modal-mail" href="mailto:byviggashop@gmail.com?subject=Bestilling%20hos%20By%20Vigga">Send mail til byviggashop@gmail.com</a>
-    </section>
-  </div>
+  <div class="modal" id="order-modal" aria-hidden="true"><div class="modal-backdrop" data-close-modal></div><section class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-title" tabindex="-1"><button class="modal-close" type="button" aria-label="Luk popup" data-close-modal>×</button><p class="section-kicker">Bestilling</p><h2 id="modal-title">Sådan bestiller du</h2><p class="modal-intro" id="modal-product-text">Skriv gerne hvilken kategori du er interesseret i.</p><ol><li>Vælg smykket</li><li>Skriv en besked</li><li>Oplys ønsker til farve og størrelse</li><li>Få pris og levering bekræftet</li><li>Betal med MobilePay efter aftale</li></ol><h3>Husk at sende mål:</h3><ul><li>Armbånd: mål omkring håndleddet</li><li>Ring: ringstørrelse eller mål omkring fingeren</li><li>Halskæde: ønsket længde</li><li>Øreringe: eventuelle ønsker til farve og stil</li></ul><a class="button button-primary modal-mail" href="mailto:byviggashop@gmail.com?subject=Bestilling%20hos%20By%20Vigga">Send mail til byviggashop@gmail.com</a></section></div>
   <script src="script.js"></script>
 </body>
 </html>
