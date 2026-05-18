@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="da">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Se flere håndlavede smykkedesigns fra By Vigga. Smykker laves på bestilling og tilpasses efter aftale.">
+  <title>Se flere smykker · By Vigga</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Lora:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="product-images.css">
+  <link rel="stylesheet" href="smykker.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="index.html" aria-label="By Vigga forside"><span>By Vigga</span><small>Forest Jewelry</small></a>
+    <nav class="main-nav" aria-label="Hovednavigation">
+      <a href="se-flere-smykker.html">Smykker</a>
+      <a href="index.html#bestilling">Sådan bestiller du</a>
+      <a href="index.html#om">Om By Vigga</a>
+      <a href="index.html#kontakt">Kontakt</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="catalog-hero" aria-labelledby="catalog-title">
+      <div class="corner corner-left" aria-hidden="true"></div>
+      <div class="corner corner-right" aria-hidden="true"></div>
+      <div class="catalog-forest catalog-forest-left" aria-hidden="true"></div>
+      <div class="catalog-forest catalog-forest-right" aria-hidden="true"></div>
+      <p class="eyebrow">Forest Jewelry</p>
+      <h1 id="catalog-title">Se flere smykker</h1>
+      <div class="ornament" aria-hidden="true"><span></span><b>✦</b><span></span></div>
+      <p>Alle smykker er håndlavede på bestilling med kærlighed til naturen og de små detaljer.</p>
+    </section>
+
+    <section class="catalog-shell" aria-label="Smykkekatalog">
+      <div class="catalog-toolbar">
+        <div class="filter-group" aria-label="Filtrer efter kategori">
+          <span>Filtrer efter kategori</span>
+          <button class="filter-button is-active" type="button" data-filter="Alle">Alle</button>
+          <button class="filter-button" type="button" data-filter="Armbånd">Armbånd</button>
+          <button class="filter-button" type="button" data-filter="Øreringe">Øreringe</button>
+          <button class="filter-button" type="button" data-filter="Halskæder">Halskæder</button>
+          <button class="filter-button" type="button" data-filter="Ringe">Ringe</button>
+        </div>
+        <label class="sort-control">Sortér efter
+          <select id="sort-select">
+            <option value="nyeste">Nyeste</option>
+            <option value="navn">Navn</option>
+            <option value="pris-lav">Laveste pris</option>
+            <option value="pris-hoej">Højeste pris</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="catalog-layout">
+        <div class="design-grid" id="design-grid" aria-live="polite"></div>
+        <aside class="order-preview" id="order-preview" aria-label="Valgt smykke"></aside>
+      </div>
+    </section>
+
+    <section class="section catalog-steps" aria-labelledby="catalog-steps-title">
+      <div class="section-heading"><span aria-hidden="true"></span><div><p class="section-kicker">Bestilling</p><h2 id="catalog-steps-title">Sådan bestiller du dette smykke</h2></div><span aria-hidden="true"></span></div>
+      <div class="step-grid catalog-step-grid">
+        <article class="step-card"><span class="step-number">1</span><h3>Vælg smykke</h3><p>Find det smykke, du ønsker at bestille.</p></article>
+        <article class="step-card"><span class="step-number">2</span><h3>Send besked</h3><p>Skriv navnet på smykket og dine ønsker til mål, farve og stil.</p></article>
+        <article class="step-card"><span class="step-number">3</span><h3>Modtag bekræftelse</h3><p>Pris, levering og betalingsoplysninger bekræftes på mail.</p></article>
+        <article class="step-card"><span class="step-number">4</span><h3>Betal med MobilePay</h3><p>Smykket laves og pakkes, når bestillingen er aftalt.</p></article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><p>By Vigga · Forest Jewelry</p><p>Håndlavede smykker inspireret af skoven</p><p>byvigga.com</p><a href="mailto:byviggashop@gmail.com?subject=Bestilling%20hos%20By%20Vigga">byviggashop@gmail.com</a></footer>
+
+  <script src="smykker.js"></script>
+</body>
+</html>
