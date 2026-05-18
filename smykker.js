@@ -21,7 +21,7 @@ function formatPrice(price) {
 
 function orderLink(item) {
   const subject = encodeURIComponent(`Bestilling hos By Vigga - ${item.navn}`);
-  const body = encodeURIComponent(`Hej By Vigga\n\nJeg vil gerne bestille: ${item.navn}\nKategori: ${item.kategori}\n\nMine ønsker til farve/størrelse:\n\nMål:\n${item.maal}\n\nVenlig hilsen`);
+  const body = encodeURIComponent(`Hej By Vigga\n\nSmykke/design: ${item.navn}\nKategori: ${item.kategori}\nØnsket farve:\n\nSend mål:\nArmbånd: mål omkring håndleddet\nRing: ringstørrelse eller mål omkring fingeren\nHalskæde: ønsket længde\nØreringe: eventuelle ønsker til farve og stil\n\nKontakt info:\nNavn:\nAdresse:\nPost nr:\nMobil nummer / MobilePay:\n\nØnsker du indpakning til gave - koster 10 kr.\nSvar:\n\nKærlige hilsner\nBy Vigga`);
   return `mailto:${MAIL}?subject=${subject}&body=${body}`;
 }
 
