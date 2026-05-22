@@ -1,72 +1,221 @@
 <!doctype html>
 <html lang="da">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="description" content="By Vigga laver håndlavede smykker inspireret af skoven. Smykker bestilles manuelt via mail og tilpasses efter aftale.">
-  <title>By Vigga · Forest Jewelry</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Lora:wght@400;500;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="styles.css">
-  <link rel="stylesheet" href="product-images.css">
-  <style>
-    .order-step-grid{align-items:stretch;gap:1.55rem}.order-step-grid .step-card{display:grid;align-content:start;justify-items:center;gap:.72rem;min-height:270px;padding:3.25rem 1.1rem 1.45rem;text-align:center;overflow:visible}.order-step-grid .step-card:after{display:none}.order-step-grid .step-card:not(:last-child)::after{position:absolute;top:50%;right:-1.18rem;display:block;width:1.05rem;height:1.05rem;content:"";border-top:2px solid rgba(169,130,50,.72);border-right:2px solid rgba(169,130,50,.72);border-left:0;border-bottom:0;border-radius:0;background:none;transform:translateY(-50%) rotate(45deg)}.order-step-grid .step-icon{display:grid;place-items:center;width:4.6rem;height:4.6rem;margin:.1rem auto .25rem;color:var(--forest);background:rgba(247,240,226,.88);border:1px solid rgba(169,130,50,.48);border-radius:50%;box-shadow:inset 0 0 0 6px rgba(255,250,239,.75)}.order-step-grid .step-icon svg{width:2.75rem;height:2.75rem;fill:none;stroke:currentColor;stroke-width:3;stroke-linecap:round;stroke-linejoin:round}.order-step-grid h3{margin:.25rem 0 0;font-size:1.6rem}.order-step-grid p{max-width:15.5rem;margin:0 auto}@media (max-width:980px){.order-step-grid .step-card:not(:last-child)::after{display:none}}@media (max-width:680px){.order-step-grid .step-card{min-height:auto;padding:3.1rem 1rem 1.35rem}.order-step-grid .step-icon{width:4.25rem;height:4.25rem}.order-step-grid .step-icon svg{width:2.45rem;height:2.45rem}}
-  </style>
-</head>
-<body>
-  <header class="site-header">
-    <a class="brand" href="#top" aria-label="By Vigga forside"><span>By Vigga</span><small>Forest Jewelry</small></a>
-    <nav class="main-nav" aria-label="Hovednavigation"><a href="se-flere-smykker.html">Smykker</a><a href="#bestilling">Sådan bestiller du</a><a href="#om">Om By Vigga</a><a href="#kontakt">Kontakt</a></nav>
-  </header>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="By Vigga laver håndlavede smykker inspireret af skoven. Smykker bestilles manuelt via mail og tilpasses efter aftale.">
+    <title>By Vigga · Forest Jewelry</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@500;600;700&family=Lora:wght@400;500;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="main-nav nav-left" aria-label="Primær navigation">
+        <a href="se-flere-smykker.html">Smykker</a>
+        <a href="#bestilling">Bestilling</a>
+      </nav>
+      <a class="brand" href="#top" aria-label="By Vigga forside">
+        <span>By Vigga</span>
+        <small>Forest Jewelry</small>
+      </a>
+      <nav class="main-nav nav-right" aria-label="Sekundær navigation">
+        <a href="#om">Om By Vigga</a>
+        <a href="#kontakt">Kontakt</a>
+      </nav>
+    </header>
 
-  <main id="top">
-    <section class="hero" aria-labelledby="hero-title"><div class="corner corner-left" aria-hidden="true"></div><div class="corner corner-right" aria-hidden="true"></div><div class="forest-line" aria-hidden="true"><span></span><span></span><span></span><span></span><span></span><span></span><span></span><span></span></div><div class="hero-inner"><p class="eyebrow">Forest Jewelry</p><h1 id="hero-title">By Vigga</h1><div class="ornament" aria-hidden="true"><span></span><b>✦</b><span></span></div><h2>Håndlavede smykker inspireret af skoven</h2><p class="hero-text">Lavet på bestilling med kærlighed til naturen og de små detaljer.</p><div class="hero-actions"><a class="button button-primary" href="se-flere-smykker.html">Se smykker</a><a class="button button-secondary" href="#bestilling">Sådan bestiller du</a></div></div></section>
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="page-corner page-corner-left" aria-hidden="true"></div>
+        <div class="page-corner page-corner-right" aria-hidden="true"></div>
+        <div class="hero-forest hero-forest-left" aria-hidden="true">
+          <span></span><span></span><span></span><span></span><span></span>
+        </div>
+        <div class="hero-forest hero-forest-right" aria-hidden="true">
+          <span></span><span></span><span></span><span></span><span></span>
+        </div>
+        <div class="botanical-frame botanical-left" aria-hidden="true"></div>
+        <div class="botanical-frame botanical-right" aria-hidden="true"></div>
 
-    <section id="smykker" class="section products" aria-labelledby="products-title">
-      <div class="section-heading"><span aria-hidden="true"></span><div><p class="section-kicker">Udvalgte kategorier</p><h2 id="products-title">Smykker lavet på bestilling</h2><p>Alle smykker laves efter aftale. Priserne er vejledende startpriser + fragt.</p></div><span aria-hidden="true"></span></div>
-      <div class="product-grid"><article class="product-card"><figure class="product-media"><img src="assets/armbaand.jpg" onerror="this.onerror=null;this.src='assets/armbaand.svg';" alt="Håndlavet armbånd fra By Vigga"></figure><h3>Armbånd</h3><p>Personlige armbånd med rolige naturfarver, perler og fine detaljer efter ønske.</p><strong>Fra 49 kr. + fragt</strong><button class="button button-card order-button" type="button" data-product="Armbånd">Bestil</button></article><article class="product-card"><figure class="product-media"><img src="assets/halskaeder.jpg" onerror="this.onerror=null;this.src='assets/halskaeder.svg';" alt="Håndlavet halskæde fra By Vigga"></figure><h3>Halskæder</h3><p>Halskæder i et enkelt, skovinspireret udtryk med ønsket længde og farvetone.</p><strong>Fra 99 kr. + fragt</strong><button class="button button-card order-button" type="button" data-product="Halskæder">Bestil</button></article><article class="product-card"><figure class="product-media"><img src="assets/ringe.jpg" onerror="this.onerror=null;this.src='assets/ringe.svg';" alt="Håndlavet ring fra By Vigga"></figure><h3>Ringe</h3><p>Ringe lavet efter mål med mulighed for at tilpasse størrelse, stemning og detaljer.</p><strong>Fra 29 kr. + fragt</strong><button class="button button-card order-button" type="button" data-product="Ringe">Bestil</button></article><article class="product-card"><figure class="product-media"><img src="assets/oreringe.jpg" onerror="this.onerror=null;this.src='assets/oreringe.svg';" alt="Håndlavede øreringe fra By Vigga"></figure><h3>Øreringe</h3><p>Let håndlavede øreringe med botaniske farver, varme metaller og et feminint udtryk.</p><strong>Fra 69 kr. + fragt</strong><button class="button button-card order-button" type="button" data-product="Øreringe">Bestil</button></article></div>
-      <div class="hero-actions"><a class="button button-primary" href="se-flere-smykker.html">Se flere smykker</a></div>
-    </section>
+        <div class="hero-inner">
+          <p class="eyebrow">Forest Jewelry</p>
+          <h1 id="hero-title">By Vigga</h1>
+          <div class="ornament" aria-hidden="true">
+            <span></span>
+            <b>✦</b>
+            <span></span>
+          </div>
+          <h2>Håndlavede smykker inspireret af skoven</h2>
+          <p class="hero-text">Lavet på bestilling med kærlighed til naturen og de små detaljer.</p>
+          <div class="hero-actions">
+            <a class="button button-primary" href="se-flere-smykker.html">Se smykker</a>
+            <a class="button button-secondary" href="#bestilling">Sådan bestiller du</a>
+          </div>
+        </div>
+      </section>
 
-    <section id="bestilling" class="section order-flow" aria-labelledby="order-title">
-      <div class="section-heading"><span aria-hidden="true"></span><div><p class="section-kicker">Rolig manuel bestilling</p><h2 id="order-title">Sådan bestiller du</h2></div><span aria-hidden="true"></span></div>
-      <div class="step-grid order-step-grid">
-        <article class="step-card">
-          <span class="step-number">1</span>
-          <span class="step-icon" aria-hidden="true"><svg viewBox="0 0 64 64"><path d="M13 39c8-8 16-12 29-18"/><path d="M20 40c9 2 18 0 27-7"/><path d="M42 21c5 4 7 9 5 14"/><circle cx="18" cy="43" r="4"/><circle cx="33" cy="38" r="4"/><circle cx="48" cy="31" r="4"/></svg></span>
-          <h3>Vælg et smykke</h3>
-          <p>Se udvalget her på siden og vælg det smykke, du er interesseret i.</p>
-        </article>
-        <article class="step-card">
-          <span class="step-number">2</span>
-          <span class="step-icon" aria-hidden="true"><svg viewBox="0 0 64 64"><path d="M12 18h40v27H24l-10 8v-8h-2z"/><path d="M22 28h20M22 36h14"/><path d="M45 13l6 6"/></svg></span>
-          <h3>Skriv en besked</h3>
-          <p>Send en mail med navnet på smykket og eventuelle ønsker til farve og størrelse.</p>
-        </article>
-        <article class="step-card">
-          <span class="step-number">3</span>
-          <span class="step-icon" aria-hidden="true"><svg viewBox="0 0 64 64"><path d="M10 18h44v30H10z"/><path d="M10 20l22 17 22-17"/><path d="M38 42l6 5 10-13"/></svg></span>
-          <h3>Få bekræftet prisen</h3>
-          <p>Vi bekræfter pris, levering og hvornår smykket kan være klar.</p>
-        </article>
-        <article class="step-card">
-          <span class="step-number">4</span>
-          <span class="step-icon" aria-hidden="true"><svg viewBox="0 0 64 64"><rect x="21" y="8" width="22" height="48" rx="4"/><path d="M28 14h8M29 50h6"/><path d="M32 37c-8-5-8-14 0-10 8-4 8 5 0 10z"/></svg></span>
-          <h3>Betal med MobilePay</h3>
-          <p>Når bestillingen er aftalt, sendes betalingsoplysninger. Smykket laves og pakkes derefter.</p>
-        </article>
-      </div>
-    </section>
+      <section id="smykker" class="section products decorated-section" aria-labelledby="products-title">
+        <div class="side-sprig side-sprig-left" aria-hidden="true"></div>
+        <div class="section-heading">
+          <span aria-hidden="true"></span>
+          <div>
+            <p class="section-kicker">Udvalgte kategorier</p>
+            <h2 id="products-title">Smykker lavet på bestilling</h2>
+            <p>Alle smykker laves efter aftale. Priserne er vejledende startpriser + fragt.</p>
+          </div>
+          <span aria-hidden="true"></span>
+        </div>
 
-    <section class="section split-section" aria-label="Betaling og om By Vigga"><article class="info-box payment"><h2>Betaling</h2><p>Betaling aftales først, når smykket, pris og levering er bekræftet.</p><p>By Vigga bruger ikke fuld webshop-betaling endnu. Bestilling sker manuelt via mail, og betaling sker efter aftale.</p></article><article id="om" class="info-box about"><h2>Om By Vigga</h2><p>By Vigga laver håndlavede smykker inspireret af skoven, naturens farver og de små detaljer. Smykkerne laves på bestilling, så der er mulighed for at tilpasse farver, størrelse og udtryk efter ønske.</p></article></section>
+        <div class="product-grid">
+          <article class="product-card">
+            <figure class="product-media">
+              <img src="assets/armbaand.jpg" onerror="this.onerror=null;this.src='assets/armbaand.svg';" alt="Håndlavet armbånd fra By Vigga">
+            </figure>
+            <h3>Armbånd</h3>
+            <p>Personlige armbånd med rolige naturfarver, perler og fine detaljer efter ønske.</p>
+            <strong>Fra 49 kr. + fragt</strong>
+            <button class="button button-card order-button" type="button" data-product="Armbånd">Bestil</button>
+          </article>
+          <article class="product-card">
+            <figure class="product-media">
+              <img src="assets/halskaeder.jpg" onerror="this.onerror=null;this.src='assets/halskaeder.svg';" alt="Håndlavet halskæde fra By Vigga">
+            </figure>
+            <h3>Halskæder</h3>
+            <p>Halskæder i et enkelt, skovinspireret udtryk med ønsket længde og farvetone.</p>
+            <strong>Fra 99 kr. + fragt</strong>
+            <button class="button button-card order-button" type="button" data-product="Halskæder">Bestil</button>
+          </article>
+          <article class="product-card">
+            <figure class="product-media">
+              <img src="assets/ringe.jpg" onerror="this.onerror=null;this.src='assets/ringe.svg';" alt="Håndlavet ring fra By Vigga">
+            </figure>
+            <h3>Ringe</h3>
+            <p>Ringe lavet efter mål med mulighed for at tilpasse størrelse, stemning og detaljer.</p>
+            <strong>Fra 29 kr. + fragt</strong>
+            <button class="button button-card order-button" type="button" data-product="Ringe">Bestil</button>
+          </article>
+          <article class="product-card">
+            <figure class="product-media">
+              <img src="assets/oreringe.jpg" onerror="this.onerror=null;this.src='assets/oreringe.svg';" alt="Håndlavede øreringe fra By Vigga">
+            </figure>
+            <h3>Øreringe</h3>
+            <p>Let håndlavede øreringe med botaniske farver, varme metaller og et feminint udtryk.</p>
+            <strong>Fra 69 kr. + fragt</strong>
+            <button class="button button-card order-button" type="button" data-product="Øreringe">Bestil</button>
+          </article>
+        </div>
+        <div class="hero-actions section-actions">
+          <a class="button button-primary" href="se-flere-smykker.html">Se flere smykker</a>
+        </div>
+      </section>
 
-    <section id="kontakt" class="section contact" aria-labelledby="contact-title"><div class="contact-ornament" aria-hidden="true"></div><p class="section-kicker">Kontakt</p><h2 id="contact-title">Skriv til By Vigga</h2><p>Har du spørgsmål, eller vil du bestille et smykke, er du velkommen til at skrive.</p><a class="mail-link" href="mailto:byviggashop@gmail.com?subject=Bestilling%20hos%20By%20Vigga">byviggashop@gmail.com</a></section>
-  </main>
+      <section id="bestilling" class="section order-flow decorated-section" aria-labelledby="order-title">
+        <div class="side-sprig side-sprig-right" aria-hidden="true"></div>
+        <div class="section-heading">
+          <span aria-hidden="true"></span>
+          <div>
+            <p class="section-kicker">Rolig manuel bestilling</p>
+            <h2 id="order-title">Sådan bestiller du</h2>
+          </div>
+          <span aria-hidden="true"></span>
+        </div>
+        <div class="step-grid">
+          <article class="step-card">
+            <span class="step-number">1</span>
+            <span class="step-icon" aria-hidden="true">
+              <svg viewBox="0 0 64 64"><path d="M13 39c8-8 16-12 29-18"/><path d="M20 40c9 2 18 0 27-7"/><path d="M42 21c5 4 7 9 5 14"/><circle cx="18" cy="43" r="4"/><circle cx="33" cy="38" r="4"/><circle cx="48" cy="31" r="4"/></svg>
+            </span>
+            <h3>Vælg et smykke</h3>
+            <p>Se udvalget her på siden og vælg det smykke, du er interesseret i.</p>
+          </article>
+          <article class="step-card">
+            <span class="step-number">2</span>
+            <span class="step-icon" aria-hidden="true">
+              <svg viewBox="0 0 64 64"><path d="M12 18h40v27H24l-10 8v-8h-2z"/><path d="M22 28h20M22 36h14"/><path d="M45 13l6 6"/></svg>
+            </span>
+            <h3>Skriv en besked</h3>
+            <p>Send en mail med navnet på smykket og eventuelle ønsker til farve og størrelse.</p>
+          </article>
+          <article class="step-card">
+            <span class="step-number">3</span>
+            <span class="step-icon" aria-hidden="true">
+              <svg viewBox="0 0 64 64"><path d="M10 18h44v30H10z"/><path d="M10 20l22 17 22-17"/><path d="M38 42l6 5 10-13"/></svg>
+            </span>
+            <h3>Få bekræftet prisen</h3>
+            <p>Vi bekræfter pris, levering og hvornår smykket kan være klar.</p>
+          </article>
+          <article class="step-card">
+            <span class="step-number">4</span>
+            <span class="step-icon" aria-hidden="true">
+              <svg viewBox="0 0 64 64"><rect x="21" y="8" width="22" height="48" rx="4"/><path d="M28 14h8M29 50h6"/><path d="M32 37c-8-5-8-14 0-10 8-4 8 5 0 10z"/></svg>
+            </span>
+            <h3>Betal med MobilePay</h3>
+            <p>Når bestillingen er aftalt, sendes betalingsoplysninger. Smykket laves og pakkes derefter.</p>
+          </article>
+        </div>
+      </section>
 
-  <footer class="site-footer"><p>By Vigga · Forest Jewelry</p><p>Håndlavede smykker inspireret af skoven</p><p>byvigga.com</p><a href="mailto:byviggashop@gmail.com?subject=Bestilling%20hos%20By%20Vigga">byviggashop@gmail.com</a></footer>
+      <section class="section info-section decorated-section" aria-label="Betaling, kontakt og om By Vigga">
+        <div class="info-grid">
+          <article class="info-box payment">
+            <h2>Betaling</h2>
+            <p>Betaling aftales først, når smykket, pris og levering er bekræftet.</p>
+            <p>Bestilling sker manuelt via mail, og betaling sker efter aftale.</p>
+          </article>
+          <article id="kontakt" class="info-box contact-box">
+            <h2>Kontakt</h2>
+            <p>Har du spørgsmål, eller vil du bestille et smykke, er du velkommen til at skrive.</p>
+            <a class="mail-link" href="mailto:byviggashop@gmail.com?subject=Bestilling%20hos%20By%20Vigga">byviggashop@gmail.com</a>
+          </article>
+          <article id="om" class="info-box about">
+            <h2>Om By Vigga</h2>
+            <p>By Vigga laver håndlavede smykker inspireret af skoven, naturens farver og de små detaljer. Smykkerne laves på bestilling, så der er mulighed for at tilpasse farver, størrelse og udtryk efter ønske.</p>
+          </article>
+        </div>
+      </section>
 
-  <div class="modal" id="order-modal" aria-hidden="true"><div class="modal-backdrop" data-close-modal></div><section class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-title" tabindex="-1"><button class="modal-close" type="button" aria-label="Luk popup" data-close-modal>×</button><p class="section-kicker">Bestilling</p><h2 id="modal-title">Sådan bestiller du</h2><p class="modal-intro" id="modal-product-text">Skriv gerne hvilken kategori du er interesseret i.</p><ol><li>Vælg smykket</li><li>Skriv en besked</li><li>Oplys ønsker til farve og størrelse</li><li>Få pris og levering bekræftet</li><li>Betal med MobilePay efter aftale</li></ol><h3>Husk at sende mål:</h3><ul><li>Armbånd: mål omkring håndleddet</li><li>Ring: ringstørrelse eller mål omkring fingeren</li><li>Halskæde: ønsket længde</li><li>Øreringe: eventuelle ønsker til farve og stil</li></ul><a class="button button-primary modal-mail" href="mailto:byviggashop@gmail.com?subject=Bestilling%20hos%20By%20Vigga">Send mail til byviggashop@gmail.com</a></section></div>
-  <script src="script.js"></script>
-</body>
+      <section class="feature-strip" aria-label="By Vigga værdier">
+        <div><span aria-hidden="true">⌁</span>Håndlavet med kærlighed</div>
+        <div><span aria-hidden="true">♧</span>Inspireret af skoven</div>
+        <div><span aria-hidden="true">♡</span>Lavet på bestilling</div>
+        <div><span aria-hidden="true">✦</span>Sikker indpakning</div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p>By Vigga · Forest Jewelry</p>
+      <p>Håndlavede smykker inspireret af skoven</p>
+      <p>byvigga.com</p>
+      <a href="mailto:byviggashop@gmail.com?subject=Bestilling%20hos%20By%20Vigga">byviggashop@gmail.com</a>
+    </footer>
+
+    <div class="modal" id="order-modal" aria-hidden="true">
+      <div class="modal-backdrop" data-close-modal></div>
+      <section class="modal-panel" role="dialog" aria-modal="true" aria-labelledby="modal-title" tabindex="-1">
+        <button class="modal-close" type="button" aria-label="Luk popup" data-close-modal>×</button>
+        <p class="section-kicker">Bestilling</p>
+        <h2 id="modal-title">Sådan bestiller du</h2>
+        <p class="modal-intro" id="modal-product-text">Skriv gerne hvilken kategori du er interesseret i.</p>
+        <ol>
+          <li>Vælg smykket</li>
+          <li>Skriv en besked</li>
+          <li>Oplys ønsker til farve og størrelse</li>
+          <li>Få pris og levering bekræftet</li>
+          <li>Betal med MobilePay efter aftale</li>
+        </ol>
+        <h3>Husk at sende mål:</h3>
+        <ul>
+          <li>Armbånd: mål omkring håndleddet</li>
+          <li>Ring: ringstørrelse eller mål omkring fingeren</li>
+          <li>Halskæde: ønsket længde</li>
+          <li>Øreringe: eventuelle ønsker til farve og stil</li>
+        </ul>
+        <a class="button button-primary modal-mail" href="mailto:byviggashop@gmail.com?subject=Bestilling%20hos%20By%20Vigga">Send mail til byviggashop@gmail.com</a>
+      </section>
+    </div>
+
+    <script src="script.js"></script>
+  </body>
 </html>
