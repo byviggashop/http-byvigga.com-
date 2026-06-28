@@ -88,25 +88,47 @@
     "dato": "2026-05-13"
   },
   {
-    "id": "grening",
-    "navn": "Grenring",
+    "id": "ring-01",
+    "navn": "Rosa Sten",
     "kategori": "Ringe",
     "pris": 29,
-    "billede": "assets/ringe.jpg",
+    "billede": "assets/products/ring-01.jpg",
     "fallback": "assets/ringe.svg",
-    "beskrivelse": "Ring med fine blad- og grenformer, inspireret af skovbundens små detaljer.",
+    "beskrivelse": "En gylden ring med rosa sten og et enkelt, håndlavet udtryk.",
     "maal": "Send ringstørrelse eller mål omkring fingeren.",
-    "dato": "2026-05-12"
+    "dato": "2026-06-28"
   },
   {
-    "id": "skovsten",
-    "navn": "Skovsten",
+    "id": "ring-02",
+    "navn": "Perlering",
     "kategori": "Ringe",
     "pris": 29,
-    "billede": "assets/ringe.jpg",
+    "billede": "assets/products/ring-02.jpg",
     "fallback": "assets/ringe.svg",
-    "beskrivelse": "Ring med grøn stenstemning og et blødt, håndlavet udtryk.",
+    "beskrivelse": "En fin ring med lys perle og bløde gyldne wire-detaljer.",
     "maal": "Send ringstørrelse eller mål omkring fingeren.",
-    "dato": "2026-05-11"
+    "dato": "2026-06-27"
+  },
+  {
+    "id": "ring-03",
+    "navn": "Gylden Bølge",
+    "kategori": "Ringe",
+    "pris": 29,
+    "billede": "assets/products/ring-03.jpg",
+    "fallback": "assets/ringe.svg",
+    "beskrivelse": "En skulpturel ring med bølgende gyldne former og håndlavet karakter.",
+    "maal": "Send ringstørrelse eller mål omkring fingeren.",
+    "dato": "2026-06-26"
+  },
+  {
+    "id": "ring-04",
+    "navn": "Perlelinje",
+    "kategori": "Ringe",
+    "pris": 29,
+    "billede": "assets/products/ring-04.jpg",
+    "fallback": "assets/ringe.svg",
+    "beskrivelse": "En elegant ring med perle og lette, svungne gulddetaljer.",
+    "maal": "Send ringstørrelse eller mål omkring fingeren.",
+    "dato": "2026-06-25"
   }
 ]
