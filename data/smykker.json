@@ -1,25 +1,47 @@
 [
   {
-    "id": "skovens-balance",
-    "navn": "Skovens Balance",
+    "id": "armbaand-01",
+    "navn": "Snefnug",
     "kategori": "Armbånd",
     "pris": 49,
-    "billede": "assets/armbaand.jpg",
+    "billede": "assets/products/armbaand-01.jpg",
     "fallback": "assets/armbaand.svg",
-    "beskrivelse": "Et roligt armbånd med grønne naturtoner, lyse perler og varme gulddetaljer.",
+    "beskrivelse": "Et roligt armbånd med blågrønne perler og et fint snefnugsvedhæng.",
     "maal": "Send håndledsmål i beskeden.",
-    "dato": "2026-05-18"
+    "dato": "2026-06-28"
   },
   {
-    "id": "skovens-ro",
-    "navn": "Skovens Ro",
+    "id": "armbaand-02",
+    "navn": "Julebær",
     "kategori": "Armbånd",
     "pris": 49,
-    "billede": "assets/armbaand.jpg",
+    "billede": "assets/products/armbaand-02.jpg",
     "fallback": "assets/armbaand.svg",
-    "beskrivelse": "Et håndlavet armbånd i bløde perlefarver med skovinspireret vedhæng.",
+    "beskrivelse": "Et lyst perlearmbånd med små røde og grønne detaljer.",
     "maal": "Send håndledsmål i beskeden.",
-    "dato": "2026-05-17"
+    "dato": "2026-06-27"
+  },
+  {
+    "id": "armbaand-03",
+    "navn": "Perlesløjfe",
+    "kategori": "Armbånd",
+    "pris": 49,
+    "billede": "assets/products/armbaand-03.jpg",
+    "fallback": "assets/armbaand.svg",
+    "beskrivelse": "Et elegant armbånd med lyse perler, gyldne detaljer og sløjfevedhæng.",
+    "maal": "Send håndledsmål i beskeden.",
+    "dato": "2026-06-26"
+  },
+  {
+    "id": "armbaand-04",
+    "navn": "Rosa Perle",
+    "kategori": "Armbånd",
+    "pris": 49,
+    "billede": "assets/products/armbaand-04.jpg",
+    "fallback": "assets/armbaand.svg",
+    "beskrivelse": "Et feminint armbånd med rosa perler og en enkel sølvfarvet detalje.",
+    "maal": "Send håndledsmål i beskeden.",
+    "dato": "2026-06-25"
   },
   {
     "id": "egeblad",
