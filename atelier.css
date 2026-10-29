@@ -154,3 +154,7 @@ html,body{overflow-x:clip}.catalog-strip{background:#fbf0dd;isolation:isolate}.c
 
 /* Reserve space while asynchronous catalog data arrives. Existing image crops remain unchanged. */
 #catalog-grid:empty{min-height:100vh}.product-main-image{display:block}.product-gallery .gallery-main{max-width:100%;object-fit:contain}
+
+/* Preserve intrinsic logo proportions when responsive width overrides HTML dimensions. */
+.showcase .hero-logo,.footer-brand img{height:auto;object-fit:contain}
+
