@@ -1,0 +1,6 @@
+import {test} from 'node:test';
+import assert from 'node:assert/strict';
+import {normalizeOrder,orderEmail} from '../lib/order-service.mjs';
+const input=(items,notes='Et armbånd med blå perler')=>({requestId:crypto.randomUUID(),name:'Test',email:'test@example.com',delivery:'pickup',items,notes});
+test('custom request is unpriced, requires wishes, and mail links to order',()=>{const order=normalizeOrder(input([{id:'personligt-smykke',qty:1,price:0}]),[]);assert.equal(order.pricePending,true);assert.equal(order.items[0].unitPrice,null);assert.equal(order.items[0].pricePending,true);const mail=orderEmail(order,'BV-TEST','https://shop.example');assert.match(mail,/pris afventer aftale/);assert.match(mail,/admin\?order=BV-TEST/);assert.doesNotMatch(mail,/admin\?product=personligt-smykke/);assert.throws(()=>normalizeOrder(input([{id:'personligt-smykke',qty:1}],''),[]));assert.throws(()=>normalizeOrder(input([{id:'personligt-smykke',qty:2}]),[]));});
+test('mixed basket retains server price and marks total pending',()=>{const order=normalizeOrder(input([{id:'personligt-smykke',qty:1},{id:'ring',qty:2}]),[{id:'ring',navn:'Ring',pris:29,aktiv:true}]);assert.equal(order.subtotal,58);assert.equal(order.pricePending,true);assert.match(orderEmail(order,'BV-TEST'),/58 kr.*Samlet pris aftales/);});

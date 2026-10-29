@@ -11,8 +11,9 @@ let activeFilter = "Alle";
 let selectedDesign = null;
 
 function imageMarkup(item, className = "") {
-  const fallback = item.fallback || item.billede;
-  return `<img class="${className}" src="${item.billede}" onerror="this.onerror=null;this.src='${fallback}';" alt="${item.navn} fra By Vigga">`;
+  const fallback = ({Armbånd:"assets/brand/icon-bracelet.svg",Halskæder:"assets/brand/icon-necklace.svg",Ringe:"assets/brand/icon-ring.svg","Øreringe":"assets/brand/icon-earrings.svg"})[item.kategori];
+  const exists = item.billede.startsWith("assets/products/");
+  return `<img class="${className}" src="${exists ? item.billede : fallback}" onerror="this.onerror=null;this.src='${fallback}';" alt="${exists ? item.navn + " fra By Vigga" : "Kategoriillustration, produktfoto mangler"}">`;
 }
 
 function formatPrice(price) {
@@ -85,7 +86,7 @@ function renderPreview() {
       <span><b>✧</b> Håndlavet på bestilling specielt til dig.</span>
     </div>
     <p class="preview-note">${selectedDesign.beskrivelse}</p>
-    <a class="button button-primary preview-mail" href="${orderLink(selectedDesign)}">Bestil med mail</a>
+    <button class="button button-primary" type="button" data-add-cart="${selectedDesign.id}">Læg i kurv</button><a class="button button-secondary preview-mail" href="${orderLink(selectedDesign)}">Bestil med mail</a>
   `;
 }
 

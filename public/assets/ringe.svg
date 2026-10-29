@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 720" role="img" aria-label="Ringe">
+  <defs>
+    <radialGradient id="paper" cx="50%" cy="38%" r="78%">
+      <stop offset="0" stop-color="#fffaf0"/>
+      <stop offset="1" stop-color="#eadfc8"/>
+    </radialGradient>
+    <linearGradient id="gold" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#dfbd70"/>
+      <stop offset="0.5" stop-color="#a98232"/>
+      <stop offset="1" stop-color="#6f4b16"/>
+    </linearGradient>
+    <radialGradient id="stone" cx="42%" cy="30%" r="68%">
+      <stop offset="0" stop-color="#f7f0e2"/>
+      <stop offset="0.48" stop-color="#8da081"/>
+      <stop offset="1" stop-color="#17382a"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="720" fill="url(#paper)"/>
+  <rect x="34" y="34" width="832" height="652" fill="none" stroke="#b8944f" stroke-width="3" opacity=".65"/>
+  <path d="M96 590 C187 531 250 575 326 505" fill="none" stroke="#526b4e" stroke-width="8" stroke-linecap="round" opacity=".48"/>
+  <path d="M804 130 C710 190 658 151 568 228" fill="none" stroke="#526b4e" stroke-width="8" stroke-linecap="round" opacity=".42"/>
+  <g fill="#526b4e" opacity=".42">
+    <ellipse cx="156" cy="548" rx="25" ry="10" transform="rotate(-34 156 548)"/>
+    <ellipse cx="222" cy="538" rx="25" ry="10" transform="rotate(24 222 538)"/>
+    <ellipse cx="672" cy="178" rx="25" ry="10" transform="rotate(-20 672 178)"/>
+    <ellipse cx="735" cy="160" rx="25" ry="10" transform="rotate(27 735 160)"/>
+  </g>
+
+  <g transform="translate(0 8)" stroke-linecap="round" stroke-linejoin="round">
+    <ellipse cx="450" cy="417" rx="228" ry="122" fill="none" stroke="url(#gold)" stroke-width="38"/>
+    <ellipse cx="450" cy="417" rx="168" ry="78" fill="none" stroke="#f7f0e2" stroke-width="18" opacity=".78"/>
+    <path d="M260 390 C305 318 378 284 451 287 C528 290 599 325 642 389" fill="none" stroke="#f4df9f" stroke-width="9" opacity=".65"/>
+
+    <ellipse cx="450" cy="265" rx="96" ry="76" fill="url(#stone)" stroke="url(#gold)" stroke-width="18"/>
+    <ellipse cx="420" cy="238" rx="27" ry="35" fill="#fff8dc" opacity=".45"/>
+    <path d="M392 315 C420 282 445 268 488 251 M415 329 C456 304 489 297 520 299" fill="none" stroke="#17382a" stroke-width="7" opacity=".42"/>
+
+    <path d="M316 339 C333 292 367 258 407 242" fill="none" stroke="url(#gold)" stroke-width="17"/>
+    <path d="M584 339 C567 292 533 258 493 242" fill="none" stroke="url(#gold)" stroke-width="17"/>
+
+    <g fill="url(#gold)" stroke="#704d18" stroke-width="5">
+      <path d="M337 286 L358 310 L335 333 L312 309Z"/>
+      <path d="M563 286 L588 309 L565 333 L542 310Z"/>
+      <path d="M450 165 L464 193 L495 198 L473 220 L478 251 L450 236 L422 251 L427 220 L405 198 L436 193Z"/>
+    </g>
+  </g>
+
+  <circle cx="450" cy="82" r="10" fill="#a98232" opacity=".8"/>
+  <path d="M383 99 H517" stroke="#a98232" stroke-width="3" opacity=".65"/>
+</svg>

@@ -1,0 +1,8 @@
+/assets/optimized/*
+  Cache-Control: public, max-age=31536000, immutable
+/assets/brand/*
+  Cache-Control: public, max-age=86400
+/lib/*
+  Cache-Control: public, max-age=0, must-revalidate
+/data/image-manifest.js
+  Cache-Control: public, max-age=0, must-revalidate

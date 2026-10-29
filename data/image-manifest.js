@@ -1,0 +1,2460 @@
+// Generated immutable image derivatives, including legacy fallback photos.
+export default {
+  "/api/product-image/d12b0242-1f8c-440f-90ac-1d07d9b454dd.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/d12b0242-1f8c-440f-90ac-1d07d9b454dd/thumb-eaf6008fd5ab.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 4206
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/d12b0242-1f8c-440f-90ac-1d07d9b454dd/card-0f4f9729f278.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 66048
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/d12b0242-1f8c-440f-90ac-1d07d9b454dd/large-dba6d26aa257.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 253740
+      }
+    ]
+  },
+  "/api/product-image/e323c8d8-0b9e-4649-a407-0ee6c12dc45e.jpg": {
+    "width": 4032,
+    "height": 3024,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/e323c8d8-0b9e-4649-a407-0ee6c12dc45e/thumb-4eb2645dde9f.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 13734
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/e323c8d8-0b9e-4649-a407-0ee6c12dc45e/card-9b3c3bf7a01b.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 227940
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/e323c8d8-0b9e-4649-a407-0ee6c12dc45e/large-77519ebcab68.webp",
+        "width": 1600,
+        "height": 2133,
+        "bytes": 1064330
+      }
+    ]
+  },
+  "/api/product-image/79d8e364-011a-4d8c-9819-710073cca8f4.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/79d8e364-011a-4d8c-9819-710073cca8f4/thumb-4c23591a62ca.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 4146
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/79d8e364-011a-4d8c-9819-710073cca8f4/card-25a7ef1d76fe.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 60590
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/79d8e364-011a-4d8c-9819-710073cca8f4/large-9e07b6f7a70b.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 226072
+      }
+    ]
+  },
+  "/api/product-image/309047ad-88db-4b68-b501-2cc9495e3d0f.jpg": {
+    "width": 4032,
+    "height": 3024,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/309047ad-88db-4b68-b501-2cc9495e3d0f/thumb-fc22f685742f.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 14432
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/309047ad-88db-4b68-b501-2cc9495e3d0f/card-94a42af7425b.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 234022
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/309047ad-88db-4b68-b501-2cc9495e3d0f/large-55147ec36cfd.webp",
+        "width": 1600,
+        "height": 2133,
+        "bytes": 1082376
+      }
+    ]
+  },
+  "/api/product-image/d3780d41-a49d-4eb8-9aae-7ee2467a24eb.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/d3780d41-a49d-4eb8-9aae-7ee2467a24eb/thumb-20bf5308b8aa.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3766
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/d3780d41-a49d-4eb8-9aae-7ee2467a24eb/card-902b050e4f36.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 37644
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/d3780d41-a49d-4eb8-9aae-7ee2467a24eb/large-8b0129267a23.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 157878
+      }
+    ]
+  },
+  "/api/product-image/a2efca3b-876f-471b-84e6-6881877f15f0.jpg": {
+    "width": 4032,
+    "height": 3024,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/a2efca3b-876f-471b-84e6-6881877f15f0/thumb-06a51214663b.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 12322
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/a2efca3b-876f-471b-84e6-6881877f15f0/card-0ad361b485e5.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 229504
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/a2efca3b-876f-471b-84e6-6881877f15f0/large-8ca6ea711ceb.webp",
+        "width": 1600,
+        "height": 2133,
+        "bytes": 1182746
+      }
+    ]
+  },
+  "/api/product-image/4c58addf-c940-4273-9e35-301ac2ab9d70.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/4c58addf-c940-4273-9e35-301ac2ab9d70/thumb-ad0b0cf70253.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 4114
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/4c58addf-c940-4273-9e35-301ac2ab9d70/card-6ed7c7fab1b4.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 55774
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/4c58addf-c940-4273-9e35-301ac2ab9d70/large-897b3d7dab04.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 196012
+      }
+    ]
+  },
+  "/api/product-image/d2973a41-0fbc-4c95-aa70-23b24600abcc.jpg": {
+    "width": 4032,
+    "height": 3024,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/d2973a41-0fbc-4c95-aa70-23b24600abcc/thumb-e50ec9f46b6f.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 13760
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/d2973a41-0fbc-4c95-aa70-23b24600abcc/card-45d29639a458.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 225852
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/d2973a41-0fbc-4c95-aa70-23b24600abcc/large-e14b24035b42.webp",
+        "width": 1600,
+        "height": 2133,
+        "bytes": 1117576
+      }
+    ]
+  },
+  "/api/product-image/1ef9185a-2d49-49a5-bf7e-5f444001db39.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/1ef9185a-2d49-49a5-bf7e-5f444001db39/thumb-154baf9cab62.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 4382
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/1ef9185a-2d49-49a5-bf7e-5f444001db39/card-70a528e88a4b.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 57562
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/1ef9185a-2d49-49a5-bf7e-5f444001db39/large-76ba53482b64.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 248336
+      }
+    ]
+  },
+  "/api/product-image/7ec6d64b-446f-474e-81ee-f6dbcde24646.jpg": {
+    "width": 4032,
+    "height": 3024,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/7ec6d64b-446f-474e-81ee-f6dbcde24646/thumb-26c9e61fc7b5.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 11220
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/7ec6d64b-446f-474e-81ee-f6dbcde24646/card-239067d355e3.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 204112
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/7ec6d64b-446f-474e-81ee-f6dbcde24646/large-6f28e2dda871.webp",
+        "width": 1600,
+        "height": 2133,
+        "bytes": 1136594
+      }
+    ]
+  },
+  "/api/product-image/5e753ea8-9584-4a9a-bf54-e541f6122294.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/5e753ea8-9584-4a9a-bf54-e541f6122294/thumb-c0c8cc90f364.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 4492
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/5e753ea8-9584-4a9a-bf54-e541f6122294/card-e26c3af6c6b4.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 52334
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/5e753ea8-9584-4a9a-bf54-e541f6122294/large-60665525d52d.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 226420
+      }
+    ]
+  },
+  "/api/product-image/c63cb8c0-2bde-4af3-849b-9d906a89ecfd.jpg": {
+    "width": 4032,
+    "height": 3024,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/c63cb8c0-2bde-4af3-849b-9d906a89ecfd/thumb-a3cb3d284625.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 13418
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/c63cb8c0-2bde-4af3-849b-9d906a89ecfd/card-354757863c3b.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 247842
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/c63cb8c0-2bde-4af3-849b-9d906a89ecfd/large-2eb5c1482f8f.webp",
+        "width": 1600,
+        "height": 2133,
+        "bytes": 1325040
+      }
+    ]
+  },
+  "/api/product-image/aa514ae0-195d-4bf8-8227-37167a29005c.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/aa514ae0-195d-4bf8-8227-37167a29005c/thumb-dd5afc148ac8.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 4054
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/aa514ae0-195d-4bf8-8227-37167a29005c/card-617ace736139.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 70588
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/aa514ae0-195d-4bf8-8227-37167a29005c/large-26642540ff33.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 263076
+      }
+    ]
+  },
+  "/api/product-image/094e82f1-a8bf-475c-920d-35ad939b0912.jpg": {
+    "width": 4032,
+    "height": 3024,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/094e82f1-a8bf-475c-920d-35ad939b0912/thumb-d874302c17a6.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 13656
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/094e82f1-a8bf-475c-920d-35ad939b0912/card-cf4448455771.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 220378
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/094e82f1-a8bf-475c-920d-35ad939b0912/large-221326a8dbd6.webp",
+        "width": 1600,
+        "height": 2133,
+        "bytes": 1102062
+      }
+    ]
+  },
+  "/api/product-image/a0167671-7546-4cae-b188-04010f13ccf2.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/a0167671-7546-4cae-b188-04010f13ccf2/thumb-555662d182fd.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3942
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/a0167671-7546-4cae-b188-04010f13ccf2/card-45ce01efb33a.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 53570
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/a0167671-7546-4cae-b188-04010f13ccf2/large-40d344472046.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 169590
+      }
+    ]
+  },
+  "/api/product-image/506e5f50-a0d0-491b-a849-7ddc6a615179.jpg": {
+    "width": 4032,
+    "height": 3024,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/506e5f50-a0d0-491b-a849-7ddc6a615179/thumb-4f7d80a203db.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 10116
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/506e5f50-a0d0-491b-a849-7ddc6a615179/card-7236f8e5fded.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 132548
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/506e5f50-a0d0-491b-a849-7ddc6a615179/large-b6f8c8225536.webp",
+        "width": 1600,
+        "height": 2133,
+        "bytes": 576838
+      }
+    ]
+  },
+  "/api/product-image/14b6ab64-da18-4cd5-81c0-91b6d640fddd.jpg": {
+    "width": 4032,
+    "height": 3024,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/14b6ab64-da18-4cd5-81c0-91b6d640fddd/thumb-f256386c9f72.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 13218
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/14b6ab64-da18-4cd5-81c0-91b6d640fddd/card-2cd568eed133.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 214108
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/14b6ab64-da18-4cd5-81c0-91b6d640fddd/large-1ba1e4348904.webp",
+        "width": 1600,
+        "height": 2133,
+        "bytes": 1039270
+      }
+    ]
+  },
+  "/api/product-image/be213c8d-be8a-4e84-b81f-98b3f3b709cb.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/be213c8d-be8a-4e84-b81f-98b3f3b709cb/thumb-e95786d89697.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3358
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/be213c8d-be8a-4e84-b81f-98b3f3b709cb/card-3a284e4933e1.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 36638
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/be213c8d-be8a-4e84-b81f-98b3f3b709cb/large-67a186c6f546.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 164214
+      }
+    ]
+  },
+  "/api/product-image/63070c81-02f1-481e-99c2-5ff607a964f9.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/63070c81-02f1-481e-99c2-5ff607a964f9/thumb-156cb2a71a68.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 3542
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/63070c81-02f1-481e-99c2-5ff607a964f9/card-82581905adf1.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 53472
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/63070c81-02f1-481e-99c2-5ff607a964f9/large-d3b7d32b64df.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 302502
+      }
+    ]
+  },
+  "/api/product-image/c50c9fbb-ffde-46d6-93a4-1034cb2136d0.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/c50c9fbb-ffde-46d6-93a4-1034cb2136d0/thumb-45839f950c1e.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 3284
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/c50c9fbb-ffde-46d6-93a4-1034cb2136d0/card-859d07f9e682.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 47434
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/c50c9fbb-ffde-46d6-93a4-1034cb2136d0/large-7090c22540eb.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 239252
+      }
+    ]
+  },
+  "/api/product-image/57164107-d9ed-4f9e-a65d-e46e8ca3b3c0.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/57164107-d9ed-4f9e-a65d-e46e8ca3b3c0/thumb-ebc719cc4d07.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3414
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/57164107-d9ed-4f9e-a65d-e46e8ca3b3c0/card-afafa8903d68.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 50066
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/57164107-d9ed-4f9e-a65d-e46e8ca3b3c0/large-646d5321616c.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 184380
+      }
+    ]
+  },
+  "/api/product-image/478e388b-99eb-49a0-a267-62376830d17d.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/478e388b-99eb-49a0-a267-62376830d17d/thumb-596a76a63ef6.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 4914
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/478e388b-99eb-49a0-a267-62376830d17d/card-76b6a01119b7.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 45344
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/478e388b-99eb-49a0-a267-62376830d17d/large-1665ec4700c8.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 224494
+      }
+    ]
+  },
+  "/api/product-image/74a11bb3-41ee-42f0-9903-5eba96521477.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/74a11bb3-41ee-42f0-9903-5eba96521477/thumb-25d4a554a7ab.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3302
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/74a11bb3-41ee-42f0-9903-5eba96521477/card-1901c8417ddf.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 53268
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/74a11bb3-41ee-42f0-9903-5eba96521477/large-f3eb87b40299.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 210524
+      }
+    ]
+  },
+  "assets/products/armbaand-02.jpg": {
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/legacy-armbaand-02/thumb-b7b7a93f5e85.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1660
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/legacy-armbaand-02/card-af9703510f7b.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 27558
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/legacy-armbaand-02/large-da68041bbd8e.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 94256
+      }
+    ]
+  },
+  "/api/product-image/e3c936b0-5496-4e11-b294-23587330c190.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/e3c936b0-5496-4e11-b294-23587330c190/thumb-bb371b006981.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3344
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/e3c936b0-5496-4e11-b294-23587330c190/card-4c1a99cbff87.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 40908
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/e3c936b0-5496-4e11-b294-23587330c190/large-4c455e1e4f28.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 149596
+      }
+    ]
+  },
+  "assets/products/armbaand-03.jpg": {
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/legacy-armbaand-03/thumb-2fa4c3f87f14.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1770
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/legacy-armbaand-03/card-90fa3f17e1cf.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 30452
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/legacy-armbaand-03/large-a08c91cd7e33.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 112854
+      }
+    ]
+  },
+  "/api/product-image/bbda8bdd-0d56-4a9a-87d5-e372e338885b.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/bbda8bdd-0d56-4a9a-87d5-e372e338885b/thumb-9355708ce10e.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3186
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/bbda8bdd-0d56-4a9a-87d5-e372e338885b/card-520943599700.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 52732
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/bbda8bdd-0d56-4a9a-87d5-e372e338885b/large-dfa49e6013b9.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 212154
+      }
+    ]
+  },
+  "assets/products/armbaand-04.jpg": {
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/legacy-armbaand-04/thumb-bcb24fd7aed7.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1504
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/legacy-armbaand-04/card-98b851a022e2.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 24140
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/legacy-armbaand-04/large-21b7058c01f8.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 83088
+      }
+    ]
+  },
+  "/api/product-image/d2ed2897-77b6-4f20-abd9-b752a85f4282.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/d2ed2897-77b6-4f20-abd9-b752a85f4282/thumb-a4c405eec506.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3692
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/d2ed2897-77b6-4f20-abd9-b752a85f4282/card-b0f31f0de55f.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 46036
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/d2ed2897-77b6-4f20-abd9-b752a85f4282/large-816b4c42b891.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 172634
+      }
+    ]
+  },
+  "/api/product-image/c5dd0342-b0a4-4c14-a61c-f5bf4741e929.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/c5dd0342-b0a4-4c14-a61c-f5bf4741e929/thumb-d3496e13b0a3.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 4228
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/c5dd0342-b0a4-4c14-a61c-f5bf4741e929/card-676cdbc410a3.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 62558
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/c5dd0342-b0a4-4c14-a61c-f5bf4741e929/large-ab67ed5fdf40.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 314654
+      }
+    ]
+  },
+  "/api/product-image/d1420117-a336-4c88-9c07-a26ca970b6d6.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/d1420117-a336-4c88-9c07-a26ca970b6d6/thumb-602745bc66c1.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3478
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/d1420117-a336-4c88-9c07-a26ca970b6d6/card-41566f27b758.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 66344
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/d1420117-a336-4c88-9c07-a26ca970b6d6/large-bc46ff72cff7.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 239040
+      }
+    ]
+  },
+  "/api/product-image/af46627b-57fa-4d8f-b5e9-ccfdbb144ba8.png": {
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/af46627b-57fa-4d8f-b5e9-ccfdbb144ba8/thumb-82b3a1bb6587.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 788
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/af46627b-57fa-4d8f-b5e9-ccfdbb144ba8/card-ff2c4ba2e00d.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 10718
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/af46627b-57fa-4d8f-b5e9-ccfdbb144ba8/large-2f4304e47423.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 51390
+      }
+    ]
+  },
+  "/api/product-image/a4740f95-0ffb-4906-be65-fe289606b2f7.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/a4740f95-0ffb-4906-be65-fe289606b2f7/thumb-2e0257985ff0.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3678
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/a4740f95-0ffb-4906-be65-fe289606b2f7/card-3136e616ddeb.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 51294
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/a4740f95-0ffb-4906-be65-fe289606b2f7/large-222a4e035ab6.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 180438
+      }
+    ]
+  },
+  "/api/product-image/874af7b9-a94e-4555-959a-019db03b7800.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/874af7b9-a94e-4555-959a-019db03b7800/thumb-04df7cc29fa6.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3840
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/874af7b9-a94e-4555-959a-019db03b7800/card-cc7becb3d609.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 51678
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/874af7b9-a94e-4555-959a-019db03b7800/large-517c422a05e6.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 182388
+      }
+    ]
+  },
+  "/api/product-image/71ccd2a2-08a6-4696-9d63-61a2929b3d71.png": {
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/71ccd2a2-08a6-4696-9d63-61a2929b3d71/thumb-3f58bb52e88e.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 764
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/71ccd2a2-08a6-4696-9d63-61a2929b3d71/card-47ce67240d3c.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 11438
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/71ccd2a2-08a6-4696-9d63-61a2929b3d71/large-5e346d803f28.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 56096
+      }
+    ]
+  },
+  "/api/product-image/7b951af0-af78-48ce-9598-0aaf583ff650.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/7b951af0-af78-48ce-9598-0aaf583ff650/thumb-85902bf6a145.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3608
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/7b951af0-af78-48ce-9598-0aaf583ff650/card-cea020cbddc3.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 54182
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/7b951af0-af78-48ce-9598-0aaf583ff650/large-b14dcf5de636.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 194288
+      }
+    ]
+  },
+  "/api/product-image/33961ffa-6a43-4224-9ee7-ef31b5ba0fd1.png": {
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/33961ffa-6a43-4224-9ee7-ef31b5ba0fd1/thumb-9c3bdc36cf8a.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 688
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/33961ffa-6a43-4224-9ee7-ef31b5ba0fd1/card-bbb6255419ee.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 12322
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/33961ffa-6a43-4224-9ee7-ef31b5ba0fd1/large-c5993669ff31.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 60676
+      }
+    ]
+  },
+  "/api/product-image/799f2077-434c-473f-a644-cf914fe281c2.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/799f2077-434c-473f-a644-cf914fe281c2/thumb-7d264fc40c9d.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3776
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/799f2077-434c-473f-a644-cf914fe281c2/card-d55d8e1d73a0.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 53950
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/799f2077-434c-473f-a644-cf914fe281c2/large-b1433547ba20.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 264940
+      }
+    ]
+  },
+  "/api/product-image/61b4079f-b3fd-4e13-b20f-8d6ff03c42d9.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/61b4079f-b3fd-4e13-b20f-8d6ff03c42d9/thumb-3d513a79586b.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 1988
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/61b4079f-b3fd-4e13-b20f-8d6ff03c42d9/card-dd7e1ce177a2.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 20916
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/61b4079f-b3fd-4e13-b20f-8d6ff03c42d9/large-59e98a40d030.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 127526
+      }
+    ]
+  },
+  "/api/product-image/e6e2d206-2803-46be-bb9e-8523943cfad7.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/e6e2d206-2803-46be-bb9e-8523943cfad7/thumb-27da8b3da07a.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 3344
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/e6e2d206-2803-46be-bb9e-8523943cfad7/card-d240b7663e24.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 40266
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/e6e2d206-2803-46be-bb9e-8523943cfad7/large-7f240aaccdd6.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 229056
+      }
+    ]
+  },
+  "/api/product-image/e0972f99-9e0b-4759-a627-a2d8cc475ef3.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/e0972f99-9e0b-4759-a627-a2d8cc475ef3/thumb-a8aa3cb400d1.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3782
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/e0972f99-9e0b-4759-a627-a2d8cc475ef3/card-1720e02408be.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 47712
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/e0972f99-9e0b-4759-a627-a2d8cc475ef3/large-c50a389c31f9.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 189954
+      }
+    ]
+  },
+  "/api/product-image/6560c54e-b2e6-400c-8af1-91756f5c3087.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/6560c54e-b2e6-400c-8af1-91756f5c3087/thumb-28ffdac42ea0.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 1800
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/6560c54e-b2e6-400c-8af1-91756f5c3087/card-65e5b327951b.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 18860
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/6560c54e-b2e6-400c-8af1-91756f5c3087/large-e8f3d20221b9.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 119754
+      }
+    ]
+  },
+  "/api/product-image/56bfbadf-f33b-450c-85a9-5d38da008d56.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/56bfbadf-f33b-450c-85a9-5d38da008d56/thumb-739e13030625.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 2130
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/56bfbadf-f33b-450c-85a9-5d38da008d56/card-a88023534487.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 18296
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/56bfbadf-f33b-450c-85a9-5d38da008d56/large-cccb48f3fc68.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 108546
+      }
+    ]
+  },
+  "/api/product-image/349d4634-a560-4e6f-a19b-625b6b4ddb4a.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/349d4634-a560-4e6f-a19b-625b6b4ddb4a/thumb-82c0fca7dc6e.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 2348
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/349d4634-a560-4e6f-a19b-625b6b4ddb4a/card-4b239afa444c.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 20368
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/349d4634-a560-4e6f-a19b-625b6b4ddb4a/large-d1bf487b7d6e.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 130872
+      }
+    ]
+  },
+  "/api/product-image/96f68320-a667-4901-adbf-4b80674c6eb2.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/96f68320-a667-4901-adbf-4b80674c6eb2/thumb-331cacb98a89.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3696
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/96f68320-a667-4901-adbf-4b80674c6eb2/card-d2e12590e54e.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 49110
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/96f68320-a667-4901-adbf-4b80674c6eb2/large-3692e5de8285.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 254066
+      }
+    ]
+  },
+  "/api/product-image/5331ada3-4b10-4bb3-84f8-f3fd89fd3afc.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/5331ada3-4b10-4bb3-84f8-f3fd89fd3afc/thumb-974aa5693545.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 2144
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/5331ada3-4b10-4bb3-84f8-f3fd89fd3afc/card-2c815d288b7b.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 22732
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/5331ada3-4b10-4bb3-84f8-f3fd89fd3afc/large-f2425d5ce437.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 130952
+      }
+    ]
+  },
+  "/api/product-image/9b91a27e-e57c-427f-8e24-450243891895.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/9b91a27e-e57c-427f-8e24-450243891895/thumb-3ad281719a79.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 2168
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/9b91a27e-e57c-427f-8e24-450243891895/card-8dc9ca4ae568.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 23574
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/9b91a27e-e57c-427f-8e24-450243891895/large-085c82ddc4ad.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 147504
+      }
+    ]
+  },
+  "/api/product-image/2866eea8-fe96-4122-87c5-44325a8d3ec4.jpg": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/2866eea8-fe96-4122-87c5-44325a8d3ec4/thumb-e4c41f9f0182.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3674
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/2866eea8-fe96-4122-87c5-44325a8d3ec4/card-045d9db927f8.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 54856
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/2866eea8-fe96-4122-87c5-44325a8d3ec4/large-986574bc0dc3.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 206296
+      }
+    ]
+  },
+  "/api/product-image/41f3aaa8-4f46-4417-be6b-c15e086a473f.jpg": {
+    "width": 1029,
+    "height": 1481,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/41f3aaa8-4f46-4417-be6b-c15e086a473f/thumb-7b8974311b87.webp",
+        "width": 160,
+        "height": 230,
+        "bytes": 8360
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/41f3aaa8-4f46-4417-be6b-c15e086a473f/card-f35a3b6cb0d4.webp",
+        "width": 640,
+        "height": 921,
+        "bytes": 107872
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/41f3aaa8-4f46-4417-be6b-c15e086a473f/large-5e05096e93ac.webp",
+        "width": 1029,
+        "height": 1481,
+        "bytes": 367286
+      }
+    ]
+  },
+  "/api/product-image/b73680bf-5a53-4a70-a349-783c6f02d94f.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/b73680bf-5a53-4a70-a349-783c6f02d94f/thumb-7150068c9c2f.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3264
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/b73680bf-5a53-4a70-a349-783c6f02d94f/card-2bb3c00eaa0a.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 45992
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/b73680bf-5a53-4a70-a349-783c6f02d94f/large-90a21d3d4355.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 180306
+      }
+    ]
+  },
+  "/api/product-image/d90b57da-dbda-438a-b293-084d81bc4464.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/d90b57da-dbda-438a-b293-084d81bc4464/thumb-d5d042e81541.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 4296
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/d90b57da-dbda-438a-b293-084d81bc4464/card-5312a9250a36.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 33264
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/d90b57da-dbda-438a-b293-084d81bc4464/large-2b6a7cb8d94d.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 175672
+      }
+    ]
+  },
+  "/api/product-image/a7f67070-0471-4f26-96f4-f91b232e5c05.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/a7f67070-0471-4f26-96f4-f91b232e5c05/thumb-f1e2f391a63b.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3586
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/a7f67070-0471-4f26-96f4-f91b232e5c05/card-82828b642d53.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 60166
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/a7f67070-0471-4f26-96f4-f91b232e5c05/large-510acb3f8ece.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 232714
+      }
+    ]
+  },
+  "/api/product-image/0c07ef28-7340-4d10-bf2d-13d0c9aeecb3.jpg": {
+    "width": 926,
+    "height": 1280,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/0c07ef28-7340-4d10-bf2d-13d0c9aeecb3/thumb-fac6a56e8af5.webp",
+        "width": 160,
+        "height": 222,
+        "bytes": 5132
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/0c07ef28-7340-4d10-bf2d-13d0c9aeecb3/card-f5c54465908d.webp",
+        "width": 640,
+        "height": 885,
+        "bytes": 55966
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/0c07ef28-7340-4d10-bf2d-13d0c9aeecb3/large-e81b624b5cb4.webp",
+        "width": 926,
+        "height": 1280,
+        "bytes": 151816
+      }
+    ]
+  },
+  "/api/product-image/5963360a-3bbe-42eb-97da-3f27d1ae594e.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/5963360a-3bbe-42eb-97da-3f27d1ae594e/thumb-1b59c06a4a93.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3592
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/5963360a-3bbe-42eb-97da-3f27d1ae594e/card-2680ce929c4c.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 46874
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/5963360a-3bbe-42eb-97da-3f27d1ae594e/large-faa5ed24b78d.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 188922
+      }
+    ]
+  },
+  "/api/product-image/f6288444-bea1-44b7-93c6-5712bb8dfdd7.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/f6288444-bea1-44b7-93c6-5712bb8dfdd7/thumb-25ece9655ce5.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 4246
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/f6288444-bea1-44b7-93c6-5712bb8dfdd7/card-f09df6e6b322.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 66628
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/f6288444-bea1-44b7-93c6-5712bb8dfdd7/large-ba8591b6d47d.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 323896
+      }
+    ]
+  },
+  "/api/product-image/0263d51f-3843-4924-821d-5ce453f8b16f.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/0263d51f-3843-4924-821d-5ce453f8b16f/thumb-fbce4d7d5f79.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3432
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/0263d51f-3843-4924-821d-5ce453f8b16f/card-cb7abc9148d2.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 46016
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/0263d51f-3843-4924-821d-5ce453f8b16f/large-e3b51c1f9e0a.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 169422
+      }
+    ]
+  },
+  "/api/product-image/b49677d0-d197-4865-8970-7861f9df9f1a.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/b49677d0-d197-4865-8970-7861f9df9f1a/thumb-9dc4ca1dbfb6.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 4360
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/b49677d0-d197-4865-8970-7861f9df9f1a/card-a10d35cb6feb.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 36682
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/b49677d0-d197-4865-8970-7861f9df9f1a/large-a0131e04f603.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 195952
+      }
+    ]
+  },
+  "/api/product-image/9b56c88c-2191-46a2-abb3-708c4b36b275.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/9b56c88c-2191-46a2-abb3-708c4b36b275/thumb-4af4eff287da.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3574
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/9b56c88c-2191-46a2-abb3-708c4b36b275/card-87365d06e6b9.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 40992
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/9b56c88c-2191-46a2-abb3-708c4b36b275/large-a2d9a1937afe.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 158282
+      }
+    ]
+  },
+  "/api/product-image/9c164d2a-c1b0-40bf-b459-0e0b4d9694f4.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/9c164d2a-c1b0-40bf-b459-0e0b4d9694f4/thumb-9afdc18b3770.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 3732
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/9c164d2a-c1b0-40bf-b459-0e0b4d9694f4/card-5fdb1e0985e9.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 56248
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/9c164d2a-c1b0-40bf-b459-0e0b4d9694f4/large-9cb2b7adcfaa.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 288022
+      }
+    ]
+  },
+  "/api/product-image/9082c8e3-a0a4-492e-a27e-2dd6997199c6.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/9082c8e3-a0a4-492e-a27e-2dd6997199c6/thumb-3c580204d6f6.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 4192
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/9082c8e3-a0a4-492e-a27e-2dd6997199c6/card-2edf40728101.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 75874
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/9082c8e3-a0a4-492e-a27e-2dd6997199c6/large-df7c8f2a9f1d.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 377000
+      }
+    ]
+  },
+  "/api/product-image/7edaa28d-0adb-4ebe-97ff-3b65d27a5495.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/7edaa28d-0adb-4ebe-97ff-3b65d27a5495/thumb-3d877b74ecaf.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3396
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/7edaa28d-0adb-4ebe-97ff-3b65d27a5495/card-e9e200bd207a.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 51896
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/7edaa28d-0adb-4ebe-97ff-3b65d27a5495/large-1c3493965aae.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 196234
+      }
+    ]
+  },
+  "/api/product-image/59a1eee5-37d0-44bc-9e0b-44c215d15b55.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/59a1eee5-37d0-44bc-9e0b-44c215d15b55/thumb-eb3044e71d44.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3852
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/59a1eee5-37d0-44bc-9e0b-44c215d15b55/card-00baa1a998f8.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 55490
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/59a1eee5-37d0-44bc-9e0b-44c215d15b55/large-2d33d456972d.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 189748
+      }
+    ]
+  },
+  "/api/product-image/d2edcf77-7432-4d25-b02c-2c6360819a79.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/d2edcf77-7432-4d25-b02c-2c6360819a79/thumb-223c88996e6a.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 5750
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/d2edcf77-7432-4d25-b02c-2c6360819a79/card-71fc003e08a9.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 39468
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/d2edcf77-7432-4d25-b02c-2c6360819a79/large-b3c452dc598e.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 187238
+      }
+    ]
+  },
+  "/api/product-image/d06f8e0d-3d77-4100-8f3d-cb51ecb8de87.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/d06f8e0d-3d77-4100-8f3d-cb51ecb8de87/thumb-25a40bf2bb97.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3886
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/d06f8e0d-3d77-4100-8f3d-cb51ecb8de87/card-1e3a8a98a949.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 41136
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/d06f8e0d-3d77-4100-8f3d-cb51ecb8de87/large-bb14b984c9d8.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 149372
+      }
+    ]
+  },
+  "/api/product-image/de3cc024-5cdc-450f-9f9e-f7a1eab43e3d.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/de3cc024-5cdc-450f-9f9e-f7a1eab43e3d/thumb-15d8cff06485.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 4238
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/de3cc024-5cdc-450f-9f9e-f7a1eab43e3d/card-772675f34738.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 63134
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/de3cc024-5cdc-450f-9f9e-f7a1eab43e3d/large-ec43ca77f974.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 320188
+      }
+    ]
+  },
+  "/api/product-image/fd925409-d351-4ce9-bbdf-222f805d2506.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/fd925409-d351-4ce9-bbdf-222f805d2506/thumb-844f6f0a14a5.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 7446
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/fd925409-d351-4ce9-bbdf-222f805d2506/card-7944cbc216f5.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 113886
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/fd925409-d351-4ce9-bbdf-222f805d2506/large-20db3846cf44.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 508374
+      }
+    ]
+  },
+  "/api/product-image/d0932b47-9b80-496c-9ed2-c8888bce3ed8.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/d0932b47-9b80-496c-9ed2-c8888bce3ed8/thumb-35972b247d07.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 4072
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/d0932b47-9b80-496c-9ed2-c8888bce3ed8/card-308b900a8772.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 47528
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/d0932b47-9b80-496c-9ed2-c8888bce3ed8/large-23fc61a31ea5.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 169394
+      }
+    ]
+  },
+  "/api/product-image/4b144df4-5e8d-42f3-9e92-c3fd8a9d9499.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/4b144df4-5e8d-42f3-9e92-c3fd8a9d9499/thumb-7ca2ea3b7466.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 3878
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/4b144df4-5e8d-42f3-9e92-c3fd8a9d9499/card-6cb119a26aa3.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 65980
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/4b144df4-5e8d-42f3-9e92-c3fd8a9d9499/large-190e9bf69b23.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 349706
+      }
+    ]
+  },
+  "/api/product-image/975033d8-9003-4488-8cda-bbab38c9f409.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/975033d8-9003-4488-8cda-bbab38c9f409/thumb-8fcf2881b95e.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 6612
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/975033d8-9003-4488-8cda-bbab38c9f409/card-fe775136c965.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 109496
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/975033d8-9003-4488-8cda-bbab38c9f409/large-e4e4499515e4.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 535484
+      }
+    ]
+  },
+  "/api/product-image/17ef604d-7ce1-4673-9bdf-6412a6cc8322.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/17ef604d-7ce1-4673-9bdf-6412a6cc8322/thumb-25e017d9e894.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 4314
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/17ef604d-7ce1-4673-9bdf-6412a6cc8322/card-9fbcc1598f55.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 52278
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/17ef604d-7ce1-4673-9bdf-6412a6cc8322/large-d816630ba318.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 245122
+      }
+    ]
+  },
+  "/api/product-image/dbc7967c-ae79-44bd-818d-5da74254cef3.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/dbc7967c-ae79-44bd-818d-5da74254cef3/thumb-d708260916c4.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 2542
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/dbc7967c-ae79-44bd-818d-5da74254cef3/card-4f1531a3edb0.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 21872
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/dbc7967c-ae79-44bd-818d-5da74254cef3/large-52d94c993001.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 120664
+      }
+    ]
+  },
+  "/api/product-image/eff2f107-f424-4123-98b3-9f4ec2de2c61.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/eff2f107-f424-4123-98b3-9f4ec2de2c61/thumb-7a1ee308ac97.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 2410
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/eff2f107-f424-4123-98b3-9f4ec2de2c61/card-9991b2a62bbb.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 24222
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/eff2f107-f424-4123-98b3-9f4ec2de2c61/large-13ad1886ac6c.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 141422
+      }
+    ]
+  },
+  "/api/product-image/5e1ce422-b764-4d31-bf6c-6585866010a7.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/5e1ce422-b764-4d31-bf6c-6585866010a7/thumb-b53f76344055.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3834
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/5e1ce422-b764-4d31-bf6c-6585866010a7/card-257d2be0db41.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 58248
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/5e1ce422-b764-4d31-bf6c-6585866010a7/large-66830f2cf05c.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 291282
+      }
+    ]
+  },
+  "/api/product-image/a014d477-4777-4c1c-a25e-1ca5abff7cf8.jpg": {
+    "width": 960,
+    "height": 1280,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/a014d477-4777-4c1c-a25e-1ca5abff7cf8/thumb-b77d06c049b9.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 1910
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/a014d477-4777-4c1c-a25e-1ca5abff7cf8/card-ce5b33df294c.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 18036
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/a014d477-4777-4c1c-a25e-1ca5abff7cf8/large-21a0239642fe.webp",
+        "width": 960,
+        "height": 1280,
+        "bytes": 50178
+      }
+    ]
+  },
+  "/api/product-image/8e8cd9ae-0a18-4c3a-b527-69a03c942c6d.jpg": {
+    "width": 1536,
+    "height": 2048,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/8e8cd9ae-0a18-4c3a-b527-69a03c942c6d/thumb-d9bd7b30a6fc.webp",
+        "width": 160,
+        "height": 213,
+        "bytes": 2566
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/8e8cd9ae-0a18-4c3a-b527-69a03c942c6d/card-78a8e67fc981.webp",
+        "width": 640,
+        "height": 853,
+        "bytes": 23404
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/8e8cd9ae-0a18-4c3a-b527-69a03c942c6d/large-db4b6179d781.webp",
+        "width": 1536,
+        "height": 2048,
+        "bytes": 136258
+      }
+    ]
+  },
+  "/api/product-image/b6c5a8a2-35e3-45ed-96e0-9c6f4cee6f45.jpg": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/b6c5a8a2-35e3-45ed-96e0-9c6f4cee6f45/thumb-29ceb46716c3.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3890
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/b6c5a8a2-35e3-45ed-96e0-9c6f4cee6f45/card-b959d207a3bf.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 50488
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/b6c5a8a2-35e3-45ed-96e0-9c6f4cee6f45/large-335fa4c6655d.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 199548
+      }
+    ]
+  },
+  "/api/product-image/37b3a768-b019-4397-ba87-34b54bbb9a1b.jpg": {
+    "width": 1870,
+    "height": 1346,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/37b3a768-b019-4397-ba87-34b54bbb9a1b/thumb-096a30006469.webp",
+        "width": 160,
+        "height": 115,
+        "bytes": 6682
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/37b3a768-b019-4397-ba87-34b54bbb9a1b/card-ad4c23a3704e.webp",
+        "width": 640,
+        "height": 461,
+        "bytes": 89024
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/37b3a768-b019-4397-ba87-34b54bbb9a1b/large-531ae9c31e16.webp",
+        "width": 1600,
+        "height": 1152,
+        "bytes": 514884
+      }
+    ]
+  },
+  "/api/product-image/5f38aae3-906e-46e4-9500-ebde914bb176.png": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/5f38aae3-906e-46e4-9500-ebde914bb176/thumb-7eebf3559d42.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 4194
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/5f38aae3-906e-46e4-9500-ebde914bb176/card-625e7cea7927.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 43470
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/5f38aae3-906e-46e4-9500-ebde914bb176/large-c74165fac471.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 172408
+      }
+    ]
+  },
+  "/api/product-image/d660d9d6-7aca-48bd-9fe7-1d5e84401733.jpg": {
+    "width": 1750,
+    "height": 1924,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/d660d9d6-7aca-48bd-9fe7-1d5e84401733/thumb-bd3c01d3baa1.webp",
+        "width": 160,
+        "height": 176,
+        "bytes": 4438
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/d660d9d6-7aca-48bd-9fe7-1d5e84401733/card-c2a1f26c3004.webp",
+        "width": 640,
+        "height": 704,
+        "bytes": 88532
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/d660d9d6-7aca-48bd-9fe7-1d5e84401733/large-b8d9f709e402.webp",
+        "width": 1600,
+        "height": 1759,
+        "bytes": 695576
+      }
+    ]
+  },
+  "/api/product-image/9b2aac58-31c5-472d-9938-4c2066000086.jpg": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/9b2aac58-31c5-472d-9938-4c2066000086/thumb-b7806b60ca6b.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3700
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/9b2aac58-31c5-472d-9938-4c2066000086/card-6fb1edb7fcbf.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 52146
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/9b2aac58-31c5-472d-9938-4c2066000086/large-49630a4a48e0.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 198340
+      }
+    ]
+  },
+  "/api/product-image/5fb356a4-3068-460b-96f0-08a57e25ba99.jpg": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/5fb356a4-3068-460b-96f0-08a57e25ba99/thumb-2d9b015be941.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 3754
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/5fb356a4-3068-460b-96f0-08a57e25ba99/card-d2e5903c6ab7.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 38176
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/5fb356a4-3068-460b-96f0-08a57e25ba99/large-5c6a1dad5b49.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 161468
+      }
+    ]
+  },
+  "/api/product-image/09cb29e8-9816-41c9-99c4-24b4809b00bf.jpg": {
+    "width": 2048,
+    "height": 1838,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/09cb29e8-9816-41c9-99c4-24b4809b00bf/thumb-a6378820cb17.webp",
+        "width": 160,
+        "height": 143,
+        "bytes": 4094
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/09cb29e8-9816-41c9-99c4-24b4809b00bf/card-b6423cf76739.webp",
+        "width": 640,
+        "height": 574,
+        "bytes": 78574
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/09cb29e8-9816-41c9-99c4-24b4809b00bf/large-469e3f039de0.webp",
+        "width": 1600,
+        "height": 1436,
+        "bytes": 577092
+      }
+    ]
+  },
+  "/api/product-image/b80f7c1b-14af-46d4-b187-671f76bd2a9d.jpg": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/b80f7c1b-14af-46d4-b187-671f76bd2a9d/thumb-ae8a050d6464.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 4120
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/b80f7c1b-14af-46d4-b187-671f76bd2a9d/card-40fa0f136da3.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 55984
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/b80f7c1b-14af-46d4-b187-671f76bd2a9d/large-540d3d6e1d78.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 231992
+      }
+    ]
+  },
+  "/api/product-image/8ba34ed0-c0ed-4946-b3a9-24299128c6a0.jpg": {
+    "width": 2048,
+    "height": 1842,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/8ba34ed0-c0ed-4946-b3a9-24299128c6a0/thumb-b5be75486f9c.webp",
+        "width": 160,
+        "height": 144,
+        "bytes": 4032
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/8ba34ed0-c0ed-4946-b3a9-24299128c6a0/card-d7bb7fc899b8.webp",
+        "width": 640,
+        "height": 576,
+        "bytes": 78240
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/8ba34ed0-c0ed-4946-b3a9-24299128c6a0/large-80b9988fcf3a.webp",
+        "width": 1600,
+        "height": 1439,
+        "bytes": 562192
+      }
+    ]
+  },
+  "/api/product-image/c9d4eb67-722b-4d5a-b88c-60fe86c3bdc6.jpg": {
+    "width": 1254,
+    "height": 1254,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/c9d4eb67-722b-4d5a-b88c-60fe86c3bdc6/thumb-7ab1a2df354b.webp",
+        "width": 160,
+        "height": 160,
+        "bytes": 4084
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/c9d4eb67-722b-4d5a-b88c-60fe86c3bdc6/card-9468cbcdb454.webp",
+        "width": 640,
+        "height": 640,
+        "bytes": 51616
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/c9d4eb67-722b-4d5a-b88c-60fe86c3bdc6/large-b8d722f9b28f.webp",
+        "width": 1254,
+        "height": 1254,
+        "bytes": 199334
+      }
+    ]
+  },
+  "/api/product-image/57543718-3156-4940-ab9d-6e784c377960.jpg": {
+    "width": 1916,
+    "height": 1561,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/57543718-3156-4940-ab9d-6e784c377960/thumb-d97094382959.webp",
+        "width": 160,
+        "height": 131,
+        "bytes": 3980
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/57543718-3156-4940-ab9d-6e784c377960/card-26092579771d.webp",
+        "width": 640,
+        "height": 521,
+        "bytes": 71934
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/57543718-3156-4940-ab9d-6e784c377960/large-a3338fa19194.webp",
+        "width": 1600,
+        "height": 1304,
+        "bytes": 483956
+      }
+    ]
+  },
+  "assets/products/armbaand-01.jpg": {
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/legacy-armbaand-01/thumb-cf902d3cb36b.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1472
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/legacy-armbaand-01/card-a1827b31cd4b.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 19344
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/legacy-armbaand-01/large-29a72ffdd6b4.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 65406
+      }
+    ]
+  },
+  "assets/products/ring-01.jpg": {
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/legacy-ring-01/thumb-8fc279dff587.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 682
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/legacy-ring-01/card-928c4f5e3105.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 12362
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/legacy-ring-01/large-795e3a6b6a0c.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 60762
+      }
+    ]
+  },
+  "assets/products/ring-02.jpg": {
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/legacy-ring-02/thumb-901ea4b48008.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 750
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/legacy-ring-02/card-d9e61d1104ce.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 11488
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/legacy-ring-02/large-3afec068967c.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 56454
+      }
+    ]
+  },
+  "assets/products/ring-03.jpg": {
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/legacy-ring-03/thumb-dd4bfef01b6e.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1828
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/legacy-ring-03/card-037d1612bd25.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 22636
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/legacy-ring-03/large-d4b8138488ed.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 73638
+      }
+    ]
+  },
+  "assets/products/ring-04.jpg": {
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/legacy-ring-04/thumb-67e5adbbd517.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 790
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/legacy-ring-04/card-c8400602bdd9.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 10842
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/legacy-ring-04/large-207c28c43fcb.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 51834
+      }
+    ]
+  }
+};
