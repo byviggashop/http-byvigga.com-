@@ -1,4 +1,4 @@
-// Generated immutable, content-addressed image derivatives.
+// Generated immutable image derivatives, including legacy fallback photos.
 export default {
   "/api/product-image/d12b0242-1f8c-440f-90ac-1d07d9b454dd.png": {
     "width": 1254,
@@ -627,21 +627,21 @@ export default {
     "variants": [
       {
         "size": "thumb",
-        "src": "/assets/optimized/armbaand-02/thumb-b7b7a93f5e85.webp",
+        "src": "/assets/optimized/legacy-armbaand-02/thumb-b7b7a93f5e85.webp",
         "width": 160,
         "height": 120,
         "bytes": 1660
       },
       {
         "size": "card",
-        "src": "/assets/optimized/armbaand-02/card-af9703510f7b.webp",
+        "src": "/assets/optimized/legacy-armbaand-02/card-af9703510f7b.webp",
         "width": 640,
         "height": 480,
         "bytes": 27558
       },
       {
         "size": "large",
-        "src": "/assets/optimized/armbaand-02/large-da68041bbd8e.webp",
+        "src": "/assets/optimized/legacy-armbaand-02/large-da68041bbd8e.webp",
         "width": 1200,
         "height": 900,
         "bytes": 94256
@@ -681,21 +681,21 @@ export default {
     "variants": [
       {
         "size": "thumb",
-        "src": "/assets/optimized/armbaand-03/thumb-2fa4c3f87f14.webp",
+        "src": "/assets/optimized/legacy-armbaand-03/thumb-2fa4c3f87f14.webp",
         "width": 160,
         "height": 120,
         "bytes": 1770
       },
       {
         "size": "card",
-        "src": "/assets/optimized/armbaand-03/card-90fa3f17e1cf.webp",
+        "src": "/assets/optimized/legacy-armbaand-03/card-90fa3f17e1cf.webp",
         "width": 640,
         "height": 480,
         "bytes": 30452
       },
       {
         "size": "large",
-        "src": "/assets/optimized/armbaand-03/large-a08c91cd7e33.webp",
+        "src": "/assets/optimized/legacy-armbaand-03/large-a08c91cd7e33.webp",
         "width": 1200,
         "height": 900,
         "bytes": 112854
@@ -735,21 +735,21 @@ export default {
     "variants": [
       {
         "size": "thumb",
-        "src": "/assets/optimized/armbaand-04/thumb-bcb24fd7aed7.webp",
+        "src": "/assets/optimized/legacy-armbaand-04/thumb-bcb24fd7aed7.webp",
         "width": 160,
         "height": 120,
         "bytes": 1504
       },
       {
         "size": "card",
-        "src": "/assets/optimized/armbaand-04/card-98b851a022e2.webp",
+        "src": "/assets/optimized/legacy-armbaand-04/card-98b851a022e2.webp",
         "width": 640,
         "height": 480,
         "bytes": 24140
       },
       {
         "size": "large",
-        "src": "/assets/optimized/armbaand-04/large-21b7058c01f8.webp",
+        "src": "/assets/optimized/legacy-armbaand-04/large-21b7058c01f8.webp",
         "width": 1200,
         "height": 900,
         "bytes": 83088
@@ -2319,6 +2319,141 @@ export default {
         "width": 1600,
         "height": 1304,
         "bytes": 483956
+      }
+    ]
+  },
+  "assets/products/armbaand-01.jpg": {
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/legacy-armbaand-01/thumb-cf902d3cb36b.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1472
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/legacy-armbaand-01/card-a1827b31cd4b.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 19344
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/legacy-armbaand-01/large-29a72ffdd6b4.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 65406
+      }
+    ]
+  },
+  "assets/products/ring-01.jpg": {
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/legacy-ring-01/thumb-8fc279dff587.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 682
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/legacy-ring-01/card-928c4f5e3105.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 12362
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/legacy-ring-01/large-795e3a6b6a0c.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 60762
+      }
+    ]
+  },
+  "assets/products/ring-02.jpg": {
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/legacy-ring-02/thumb-901ea4b48008.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 750
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/legacy-ring-02/card-d9e61d1104ce.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 11488
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/legacy-ring-02/large-3afec068967c.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 56454
+      }
+    ]
+  },
+  "assets/products/ring-03.jpg": {
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/legacy-ring-03/thumb-dd4bfef01b6e.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 1828
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/legacy-ring-03/card-037d1612bd25.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 22636
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/legacy-ring-03/large-d4b8138488ed.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 73638
+      }
+    ]
+  },
+  "assets/products/ring-04.jpg": {
+    "width": 1200,
+    "height": 900,
+    "variants": [
+      {
+        "size": "thumb",
+        "src": "/assets/optimized/legacy-ring-04/thumb-67e5adbbd517.webp",
+        "width": 160,
+        "height": 120,
+        "bytes": 790
+      },
+      {
+        "size": "card",
+        "src": "/assets/optimized/legacy-ring-04/card-c8400602bdd9.webp",
+        "width": 640,
+        "height": 480,
+        "bytes": 10842
+      },
+      {
+        "size": "large",
+        "src": "/assets/optimized/legacy-ring-04/large-207c28c43fcb.webp",
+        "width": 1200,
+        "height": 900,
+        "bytes": 51834
       }
     ]
   }

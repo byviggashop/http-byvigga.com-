@@ -5,7 +5,8 @@ import {createRequire} from 'node:module';
 const require=createRequire(import.meta.url);const sharp=require('sharp');
 const root=process.cwd();const origin=process.argv[2];if(!origin||new URL(origin).protocol!=='https:')throw Error('Usage: node scripts/optimize-existing-images.mjs https://byvigga.com');const cache=path.join(root,'.image-originals');await fs.mkdir(cache,{recursive:true});
 const products=await fetch(new URL('/api/products',origin)).then(r=>r.json());await fs.writeFile(path.join(cache,'products.json'),JSON.stringify(products,null,2));
-const sources=[...new Set(products.flatMap(p=>p.billeder?.length?p.billeder:[p.billede]))];
+const legacy=(await fs.readdir(path.join(root,'assets/products'))).filter(name=>/\.(jpg|png|webp)$/.test(name)).map(name=>'assets/products/'+name);
+const sources=[...new Set([...products.flatMap(p=>p.billeder?.length?p.billeder:[p.billede]),...legacy])];
 const manifest={},report=[];
 for(const [i,source] of sources.entries()){
  const name=path.basename(source);const file=path.join(cache,name);let bytes;try{bytes=await fs.readFile(file)}catch{const r=await fetch(new URL(source,origin));if(!r.ok)throw Error(source+': '+r.status);bytes=Buffer.from(await r.arrayBuffer());await fs.writeFile(file,bytes)}
