@@ -56,3 +56,7 @@ next-env.d.ts
 /.codex/
 /outputs/
 /work/
+
+# Downloaded originals are retained locally, not republished.
+/.image-originals/
+/.image-qa-upload.html

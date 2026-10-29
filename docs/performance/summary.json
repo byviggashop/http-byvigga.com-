@@ -1,0 +1,107 @@
+{
+  "date": "2026-10-29",
+  "lighthouse": "13.6.0",
+  "notes": "Default Lighthouse mobile Slow 4G simulation. Controlled final runs were sequential against the same 39-product public snapshot, localhost fixture and Chrome. Live baseline is separate; there is no deployed after-measurement.",
+  "runs": [
+    {
+      "name": "images-before-catalog",
+      "url": "https://byvigga.com/se-flere-smykker",
+      "lcpMs": 7512.866,
+      "cls": 0.4877495190672529,
+      "performanceScore": 0.45,
+      "resourceType": "image",
+      "label": "Image",
+      "requestCount": 29,
+      "transferSize": 76944766,
+      "fetchTime": "2026-10-29T20:04:07.694Z",
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    },
+    {
+      "name": "images-controlled-before-2",
+      "url": "http://127.0.0.1:4186/se-flere-smykker.html",
+      "lcpMs": 103883.97260000036,
+      "cls": 0.4390312470490169,
+      "performanceScore": 0.55,
+      "resourceType": "image",
+      "label": "Image",
+      "requestCount": 31,
+      "transferSize": 82204150,
+      "fetchTime": "2026-10-29T20:13:43.506Z",
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    },
+    {
+      "name": "images-controlled-after-2",
+      "url": "http://127.0.0.1:4187/se-flere-smykker.html",
+      "lcpMs": 4960.2942,
+      "cls": 0.0028754909440511247,
+      "performanceScore": 0.81,
+      "resourceType": "image",
+      "label": "Image",
+      "requestCount": 41,
+      "transferSize": 1238738,
+      "fetchTime": "2026-10-29T20:14:43.281Z",
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    },
+    {
+      "name": "images-home-before",
+      "url": "http://127.0.0.1:4186/index.html",
+      "lcpMs": 9157.215950000003,
+      "cls": 0.001915713546020651,
+      "performanceScore": 0.74,
+      "resourceType": "image",
+      "label": "Image",
+      "requestCount": 8,
+      "transferSize": 2937838,
+      "fetchTime": "2026-10-29T20:15:37.681Z",
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    },
+    {
+      "name": "images-home-after",
+      "url": "http://127.0.0.1:4187/index.html",
+      "lcpMs": 4357.9125,
+      "cls": 0.0004777900485956496,
+      "performanceScore": 0.85,
+      "resourceType": "image",
+      "label": "Image",
+      "requestCount": 8,
+      "transferSize": 450704,
+      "fetchTime": "2026-10-29T20:16:40.204Z",
+      "throttling": {
+        "rttMs": 150,
+        "throughputKbps": 1638.4,
+        "requestLatencyMs": 562.5,
+        "downloadThroughputKbps": 1474.5600000000002,
+        "uploadThroughputKbps": 675,
+        "cpuSlowdownMultiplier": 4
+      }
+    }
+  ]
+}

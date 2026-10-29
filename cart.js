@@ -1,3 +1,4 @@
+import {imageInfo} from './lib/image-urls.mjs';
 /* Orders are validated, stored and emailed by the same-origin server endpoint. */
 (() => {
  const key='byvigga-cart-v1'; let items=[]; let products=[]; let returnFocus; let submitting=false;

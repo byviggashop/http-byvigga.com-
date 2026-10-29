@@ -151,3 +151,6 @@ html,body{overflow-x:clip}.catalog-strip{background:#fbf0dd;isolation:isolate}.c
 .jewel-card>.add-link:disabled{background:#eee7dc;color:#857969;border-color:#ddd0bd;box-shadow:none;cursor:not-allowed;opacity:1}.add-link:disabled .cart-button-arrow{display:none}
 @media(max-width:760px){.jewel-card>.add-link{min-height:48px;padding:6px 7px 6px 15px;font-size:11px;gap:7px}.cart-button-arrow{flex-basis:32px;width:32px;height:32px}.cart-button-arrow svg{width:19px;height:19px}}
 @media(prefers-reduced-motion:reduce){.jewel-card>.add-link,.cart-button-arrow,.cart-button-arrow svg{transition:none}.jewel-card>.add-link:hover:not(:disabled),.add-link:hover:not(:disabled) .cart-button-arrow svg{transform:none}}
+
+/* Reserve space while asynchronous catalog data arrives. Existing image crops remain unchanged. */
+#catalog-grid:empty{min-height:100vh}.product-main-image{display:block}.product-gallery .gallery-main{max-width:100%;object-fit:contain}
