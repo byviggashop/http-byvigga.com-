@@ -1,0 +1,12 @@
+{
+  "productsUnchanged": 39,
+  "optimizedImage": {
+    "status": 200,
+    "bytes": 66048,
+    "contentType": "image/webp",
+    "cache": "public, max-age=0, must-revalidate",
+    "conditionalStatus": 304
+  },
+  "originalStatus": 200,
+  "adminAnonymousStatus": 403
+}
