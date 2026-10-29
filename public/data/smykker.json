@@ -1,0 +1,134 @@
+[
+  {
+    "id": "armbaand-01",
+    "navn": "Snefnug",
+    "kategori": "Armbånd",
+    "pris": 49,
+    "billede": "assets/products/armbaand-01.jpg",
+    "fallback": "assets/armbaand.svg",
+    "beskrivelse": "Et roligt armbånd med blågrønne perler og et fint snefnugsvedhæng.",
+    "maal": "Send håndledsmål i beskeden.",
+    "dato": "2026-06-28"
+  },
+  {
+    "id": "armbaand-02",
+    "navn": "Julebær",
+    "kategori": "Armbånd",
+    "pris": 49,
+    "billede": "assets/products/armbaand-02.jpg",
+    "fallback": "assets/armbaand.svg",
+    "beskrivelse": "Et lyst perlearmbånd med små røde og grønne detaljer.",
+    "maal": "Send håndledsmål i beskeden.",
+    "dato": "2026-06-27"
+  },
+  {
+    "id": "armbaand-03",
+    "navn": "Perlesløjfe",
+    "kategori": "Armbånd",
+    "pris": 49,
+    "billede": "assets/products/armbaand-03.jpg",
+    "fallback": "assets/armbaand.svg",
+    "beskrivelse": "Et elegant armbånd med lyse perler, gyldne detaljer og sløjfevedhæng.",
+    "maal": "Send håndledsmål i beskeden.",
+    "dato": "2026-06-26"
+  },
+  {
+    "id": "armbaand-04",
+    "navn": "Rosa Perle",
+    "kategori": "Armbånd",
+    "pris": 49,
+    "billede": "assets/products/armbaand-04.jpg",
+    "fallback": "assets/armbaand.svg",
+    "beskrivelse": "Et feminint armbånd med rosa perler og en enkel sølvfarvet detalje.",
+    "maal": "Send håndledsmål i beskeden.",
+    "dato": "2026-06-25"
+  },
+  {
+    "id": "egeblad",
+    "navn": "Egeblad",
+    "kategori": "Øreringe",
+    "pris": 69,
+    "billede": "assets/oreringe.jpg",
+    "fallback": "assets/oreringe.svg",
+    "beskrivelse": "Øreringe med grønne perler og små bladvedhæng i varm guldfarve.",
+    "maal": "Skriv eventuelle ønsker til farve og stil.",
+    "dato": "2026-05-16"
+  },
+  {
+    "id": "moseperler",
+    "navn": "Moseperler",
+    "kategori": "Øreringe",
+    "pris": 69,
+    "billede": "assets/oreringe.jpg",
+    "fallback": "assets/oreringe.svg",
+    "beskrivelse": "Enkle øreringe med perler i dæmpede mosgrønne nuancer.",
+    "maal": "Skriv eventuelle ønsker til farve og stil.",
+    "dato": "2026-05-15"
+  },
+  {
+    "id": "skovens-draabe",
+    "navn": "Skovens Dråbe",
+    "kategori": "Halskæder",
+    "pris": 99,
+    "billede": "assets/halskaeder.jpg",
+    "fallback": "assets/halskaeder.svg",
+    "beskrivelse": "Halskæde med skovmotiv, perlemorstone og en rolig atelierfølelse.",
+    "maal": "Send ønsket længde på halskæden.",
+    "dato": "2026-05-14"
+  },
+  {
+    "id": "livets-trae",
+    "navn": "Livets Træ",
+    "kategori": "Halskæder",
+    "pris": 99,
+    "billede": "assets/halskaeder.jpg",
+    "fallback": "assets/halskaeder.svg",
+    "beskrivelse": "Et naturinspireret halskædedesign med organisk vedhæng og gylden varme.",
+    "maal": "Send ønsket længde på halskæden.",
+    "dato": "2026-05-13"
+  },
+  {
+    "id": "ring-01",
+    "navn": "Rosa Sten",
+    "kategori": "Ringe",
+    "pris": 29,
+    "billede": "assets/products/ring-01.jpg",
+    "fallback": "assets/ringe.svg",
+    "beskrivelse": "En gylden ring med rosa sten og et enkelt, håndlavet udtryk.",
+    "maal": "Send ringstørrelse eller mål omkring fingeren.",
+    "dato": "2026-06-28"
+  },
+  {
+    "id": "ring-02",
+    "navn": "Perlering",
+    "kategori": "Ringe",
+    "pris": 29,
+    "billede": "assets/products/ring-02.jpg",
+    "fallback": "assets/ringe.svg",
+    "beskrivelse": "En fin ring med lys perle og bløde gyldne wire-detaljer.",
+    "maal": "Send ringstørrelse eller mål omkring fingeren.",
+    "dato": "2026-06-27"
+  },
+  {
+    "id": "ring-03",
+    "navn": "Gylden Bølge",
+    "kategori": "Ringe",
+    "pris": 29,
+    "billede": "assets/products/ring-03.jpg",
+    "fallback": "assets/ringe.svg",
+    "beskrivelse": "En skulpturel ring med bølgende gyldne former og håndlavet karakter.",
+    "maal": "Send ringstørrelse eller mål omkring fingeren.",
+    "dato": "2026-06-26"
+  },
+  {
+    "id": "ring-04",
+    "navn": "Perlelinje",
+    "kategori": "Ringe",
+    "pris": 29,
+    "billede": "assets/products/ring-04.jpg",
+    "fallback": "assets/ringe.svg",
+    "beskrivelse": "En elegant ring med perle og lette, svungne gulddetaljer.",
+    "maal": "Send ringstørrelse eller mål omkring fingeren.",
+    "dato": "2026-06-25"
+  }
+]
