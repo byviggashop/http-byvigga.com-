@@ -29,4 +29,3 @@ test('new orders without workflow can be deleted, missing orders cannot',async()
  assert.equal(await deleteOrder(db,{id:'BV-MISSING',version:0},'owner'),false);
  assert.equal(sql.prepare('SELECT count(*) AS n FROM admin_history').get().n,1);
 });
-
