@@ -168,3 +168,5 @@ html,body{overflow-x:clip}.catalog-strip{background:#fbf0dd;isolation:isolate}.c
 
 /* Four newest designs share the collection composition, with square photos. */
 .latest-section{background:var(--paper)}.latest-design-photo{aspect-ratio:1/1}.latest-products{gap:18px}.latest-products .collection-entry-label{padding:17px 10px 20px}.latest-section .section-heading{align-items:flex-end}@media(min-width:761px){.latest-products{grid-template-columns:repeat(4,minmax(0,1fr))}}@media(max-width:760px){.latest-products{gap:12px}.latest-products .collection-entry-label{padding:13px 5px 16px}}
+
+.latest-design-photo{height:auto;aspect-ratio:1/1}
