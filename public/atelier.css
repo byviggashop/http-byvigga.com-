@@ -160,3 +160,6 @@ html,body{overflow-x:clip}.catalog-strip{background:#fbf0dd;isolation:isolate}.c
 
 /* New designs reuse the catalog cards and optimized image sources. */
 .latest-section{background:var(--cream)}.latest-section[hidden]{display:none}.latest-products{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:45px 28px}.latest-all{margin-top:28px}.latest-products h3 a:hover{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}.latest-products .jewel-image{aspect-ratio:4/5;overflow:hidden}.latest-products .jewel-image>img{width:100%;height:100%;object-fit:cover}.latest-products .illustrated>img{object-fit:contain}.latest-products .jewel-card{overflow-wrap:anywhere}@media(max-width:1050px){.latest-products{grid-template-columns:repeat(3,minmax(0,1fr));gap:30px 20px}}@media(max-width:760px){.latest-products{grid-template-columns:repeat(2,minmax(0,1fr));gap:30px 15px}.latest-products h3{font-size:25px}.latest-products .jewel-meta{gap:5px}.latest-products .product-price strong{font-size:19px}}@media(max-width:359px){.latest-products{grid-template-columns:1fr}}
+
+/* Compact homepage tiles link to the existing product details. */
+.latest-products>.jewel-card{grid-row:span 4}.latest-products .jewel-meta{padding-top:4px}.latest-products h3{margin-bottom:22px}.latest-products .add-link{margin-top:auto}
