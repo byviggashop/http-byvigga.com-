@@ -163,3 +163,5 @@ html,body{overflow-x:clip}.catalog-strip{background:#fbf0dd;isolation:isolate}.c
 
 /* Compact homepage tiles link to the existing product details. */
 .latest-products>.jewel-card{grid-row:span 4}.latest-products .jewel-meta{padding-top:4px}.latest-products h3{margin-bottom:22px}.latest-products .add-link{margin-top:auto}
+
+.latest-design-entry{display:flex;flex-direction:column}.latest-design-photo{display:block;width:100%;aspect-ratio:1.5;object-fit:cover;background:var(--cream)}.latest-design-entry .collection-entry-label{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center}.latest-design-entry .collection-entry-label h3{margin:0;overflow-wrap:anywhere}
