@@ -1,0 +1,2 @@
+import {defineConfig} from 'vite';import products from '../../data/smykker.json' with {type:'json'};
+export default defineConfig({server:{host:'127.0.0.1',port:4192,strictPort:true},plugins:[{name:'local-homepage-catalog',configureServer(server){server.middlewares.use((req,res,next)=>{if(req.url==='/api/products'){res.setHeader('Content-Type','application/json');res.end(JSON.stringify(products.map(p=>({...p,aktiv:true,antal:null}))));return;}if(req.url?.startsWith('/api/')){res.statusCode=404;res.end();return;}next();})}}]});
