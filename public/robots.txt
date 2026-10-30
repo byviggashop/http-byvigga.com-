@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api/
+Allow: /api/product-image/
+
+Sitemap: https://byvigga.com/sitemap.xml

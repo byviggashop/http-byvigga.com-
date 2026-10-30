@@ -13,7 +13,8 @@
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
     "db:generate": "drizzle-kit generate",
     "test": "node --test tests/*.test.mjs",
-    "images:refresh": "node scripts/optimize-existing-images.mjs https://byvigga.com"
+    "images:refresh": "node scripts/optimize-existing-images.mjs https://byvigga.com",
+    "icons:build": "node scripts/generate-icons.cjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",
