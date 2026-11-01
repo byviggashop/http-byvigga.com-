@@ -6,3 +6,5 @@ fs.writeFileSync('app/page.tsx',`import { redirect } from 'next/navigation';\nex
 fs.mkdirSync('public/lib',{recursive:true});fs.copyFileSync('lib/image-urls.mjs','public/lib/image-urls.mjs');
 
 fs.copyFileSync('lib/latest-designs.mjs','public/lib/latest-designs.mjs');
+
+fs.copyFileSync('lib/stock.mjs','public/lib/stock.mjs');
